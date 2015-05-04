@@ -1,0 +1,9 @@
+<?php
+$host='localhost';
+$user='root';
+$password='mysql';
+$database='vp';
+$volume=15;
+$issue=1;
+echo "suresh";
+?>
