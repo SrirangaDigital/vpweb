@@ -28394,7 +28394,7 @@
 			<entry>
 				<title>ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರ ಚಾಮುಂಡೇಶ್ವರಿ ದೇಗುಲದರ್ಶನ</title>
 				<feature>ವಿಶೇಷ ಲೇಖನ</feature>
-				<text>ಒಂದು ದಿನ ಮೈಸೂರು ಚಾಮುಂಡಿ ಬೆಟ್ಟದ</text>
+				<text>ಒಂದು ದಿನ ಮೈಸೂರು ಚಾಮುಂಡಿ ಬೆಟ್ಟದ ಶ್ರೀಚಾಮುಂಡೇಶ್ವರಿ ದೇವಸ್ಥಾನದಲ್ಲಿ</text>
 				<page>9</page>
 				<allauthors>
 					<author salut="">ಸಿ.ಎಸ್.ಮಂಗಳಮ್ಮ</author>
@@ -28421,7 +28421,7 @@
 			<entry>
 				<title>ಸ್ಮಾಮಿ ಪ್ರೇಮಾನಂದರು ಭಾಗ ೫</title>
 				<feature>ಧಾರಾವಾಹಿ</feature>
-				<text>ಸ್ವಾಮಿ ಪ್ರೇಮಾನಂದರು, ಹಸುಗಳಿಗೆ ಮೇವನ್ನು ಸಿದ್ಧಪಡಿಸುವ ಸಂನ್ಯಾಸಿಗಳೊಂದಿಗೂ</text>
+				<text>ಸ್ವಾಮಿ ಪ್ರೇಮಾನಂದರು, ಹಸುಗಳಿಗೆ ಮೇವನ್ನು ಸಿದ್ಧಪಡಿಸುವ ಸಂನ್ಯಾಸಿಗಳೊಂದಿಗೂ ಕೈಜೋಡಿಸುತ್ತಿದ್ದರು</text>
 				<page>14</page>
 				<allauthors>
 					<author salut="ಸ್ವಾಮಿ">ಅಶೋಕಾನಂದ</author>
@@ -28441,6 +28441,116 @@
 				<feature>ಚಿತ್ರಕಥೆ</feature>
 				<text>ರಾಜ ವಿನಯದಿಂದ ವಸಿಷ್ಠರಿಗೆ ಹೇಳಿದ</text>
 				<page>34</page>
+				<allauthors>
+					<author salut=""></author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="05" month="5" year="2015" theme="">
+			<entry>
+				<title>ಪ್ರಾರ್ಥನೆ - ಸೂಕ್ತಿಪ್ರಭ</title>
+				<feature>ಪ್ರಾರ್ಥನೆ</feature>
+				<text></text>
+				<page>3</page>
+				<allauthors>
+					<author salut=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಆಧುನಿಕ ಭಾರತ ಮತ್ತು ಸನಾತನ ಧರ್ಮ</title>
+				<feature>ಸಂಪಾದಕೀಯ</feature>
+				<text></text>
+				<page>5</page>
+				<allauthors>
+					<author salut=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ವಿಜ್ಞಾನಿ</title>
+				<feature>ಶ್ರೀರಾಮಕೃಷ್ಣ ವಚನವೇದದಿಂದ</feature>
+				<text>ವಿಜ್ಞಾನವೆಂದರೇನು? ಭಗವಂತನನನ್ನು ವಿಶೇಷ ರೂಪದಿಂದ ಅರಿಯುವಿಕೆ</text>
+				<page>8</page>
+				<allauthors>
+					<author salut=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಭಕ್ತನ ಲಕ್ಷಣ - ಭಾಗ ೫</title>
+				<feature>ಭಗವದ್ಗೀತಾ ತತ್ತ್ವಸೌರಭ</feature>
+				<text>ಭಕ್ತನಿಗೆ ವ್ಯಥೆಯಿಲ್ಲ. ವ್ಯಥೆಗೆ ಮುಖ್ಯವಾಗಿ ಎರಡು ಕಾರಣಗಳಿವೆ - ಅನಿಷ್ಟಪ್ರಾಪ್ತಿ ಮತ್ತು ಇಷ್ಟ ಅಪ್ರಾಪ್ತಿ</text>
+				<page>24</page>
+				<allauthors>
+					<author salut="ಸ್ವಾಮಿ">ನಿತ್ಯಸ್ಥಾನಂದ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಕಥಾಚಿಂತನ-ಮನೋಮಂಥನ</title>
+				<feature>ಪುಸ್ತಕ ಪರಿಚಯ</feature>
+				<text>ಹಿಂದೀ ಭಾಷೆಯಲ್ಲಿ ಪಂಡಿತ ಶ್ರೀರಾಮ ಶರ್ಮಾ ಆಚಾರ್ಯ ಅವರು ರಚಿಸಿರುವ</text>
+				<page>29</page>
+				<allauthors>
+					<author salut=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಸ್ವಾಮಿ ಭೂತೇಶಾನಂದಜಿಯವರೊಂದಿಗೆ</title>
+				<feature>ಆಧ್ಯಾತ್ಮಿಕ ಸಂಭಾಷಣೆ</feature>
+				<text>ಮಹಾರಾಜರೆ `ನಿನ್ನಲ್ಲಿ ಸೇವಾಬುದ್ಧಿ ಉಂಟಾದರೆ ದೇಹ ಬುದ್ಧಿ ಕಡಿಮೆ ಆಗುತ್ತದೆ' ಎಂದು ತಾವು ಹೇಳಿದ್ದೀರಿ</text>
+				<page>30</page>
+				<allauthors>
+					<author salut=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಸುದ್ದಿ ಸಂಚಯ</title>
+				<feature></feature>
+				<text></text>
+				<page>40</page>
+				<allauthors>
+					<author salut=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಪರಿಹಾರ ಕಾರ್ಯದ ಕೆಲವು ನೆನಪುಗಳು</title>
+				<feature>ವಿಶೇಷ ಲೇಖನ</feature>
+				<text>ಪರಿಹಾರ ಕಾರ್ಯದ ಮೊದಲನೆಯ ಹಂತ ಎಲ್ಲಿ ಪರಿಹಾರದ ಆವಶ್ಯಕತೆ ಇದೆ</text>
+				<page>12</page>
+				<allauthors>
+					<author salut="">ಒಬ್ಬ ಅನಾಮಿಕ ಸಂನ್ಯಾಸಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಸ್ವಾಮಿ ಅಖಂಡಾನಂದರ ಸ್ಮೃತಿಸಂಚಯ - ಭಾಗ ೭</title>
+				<feature>ಧಾರಾವಾಹಿ</feature>
+				<text>ಮತ್ತೊಂದು ದಿನ ಧ್ಯಾನ ಮಾಡಲು ಕಲಿಸುತ್ತಿದ್ದರು - ನಾನು ಚಿಕ್ಕವನಾದರೂ ಕೂಡ</text>
+				<page>9</page>
+				<allauthors>
+					<author salut="ಸ್ವಾಮಿ">ನಿರಾಮಯಾನಂದ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಸ್ಮಾಮಿ ಪ್ರೇಮಾನಂದರು ಭಾಗ ೬</title>
+				<feature>ಧಾರಾವಾಹಿ</feature>
+				<text>ನನ್ನ ಕಾಲೇಜು ವಿದ್ಯಾಭ್ಯಾಸದ ಕೊನೆಯ ಎರಡು ವರ್ಷಗಳಿಗೆ ಬಂಗಾಲದ ಸಣ್ಣ</text>
+				<page>18</page>
+				<allauthors>
+					<author salut="ಸ್ವಾಮಿ">ಅಶೋಕಾನಂದ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಮಹಾತ್ಮನ ಕಥೆ</title>
+				<feature>ಯೋಗವಾಸಿಷ್ಠದ ಕಥೆಗಳು:ಕಥಾಗುಚ್ಛ ೪</feature>
+				<text>ಚೈತನ್ಯದ ಅಂತರಾಳದಲ್ಲಿ, ಸೃಷ್ಟಿಕರ್ತನ ಮನದ ಮೂಲೆಯೊಂದರಲ್ಲಿ ಪಾಳುಬಿದ್ದ ದೇಗುಲವೊಂದಿತ್ತು</text>
+				<page>32</page>
+				<allauthors>
+					<author salut="ಸ್ವಾಮಿ">ವೀರೇಶಾನಂದ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಕಾಳಿದಾಸ ಮತ್ತು ಭೋಜರಾಜ</title>
+				<feature>ಚಿತ್ರಕಥೆ</feature>
+				<text>ತಾರಾಪುರದ ಅರಸನಾದ ಭೋಜರಾಜ ಮತ್ತು ಕವಿ ಕಾಳಿದಾಸ ಇಬ್ಬರೂ ಸ್ನೇಹಿತರಾಗಿದ್ದರು</text>
+				<page>36</page>
 				<allauthors>
 					<author salut=""></author>
 				</allauthors>

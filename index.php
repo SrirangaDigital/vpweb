@@ -62,7 +62,7 @@
 					echo "</div>";
 			?>
 			<?php print_widget("ಶ್ರೀರಾಮಕೃಷ್ಣ ವಚನವೇದದಿಂದ",0);?>										
-			<?php print_widget("ಯೋಗವಾಸಿಷ್ಠದ ಕಥೆಗಳು:ಕಥಾಗುಚ್ಛ ೩",0);?>
+			<?php print_widget("ಪುಸ್ತಕ ಪರಿಚಯ",0);?>
 		</div>
 		
 		<div class="column2">
@@ -91,6 +91,7 @@
 			</div>			
 			<?php print_widget("ಧಾರಾವಾಹಿ",2);?>
 			<?php print_widget("ಜಪಾನಿನ ನೀತಿಕಥೆಗಳು",1);?>
+			<?php print_widget("ಯೋಗವಾಸಿಷ್ಠದ ಕಥೆಗಳು:ಕಥಾಗುಚ್ಛ ೪",1);?>
 		</div>
 	</div>
 	<div class="footer">
