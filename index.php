@@ -63,16 +63,13 @@
 			?>
 			<?php print_widget("ಶ್ರೀರಾಮಕೃಷ್ಣ ವಚನವೇದದಿಂದ",0);?>										
 			<?php print_widget("ಪುಸ್ತಕ ಪರಿಚಯ",0);?>
-			<?php print_widget("ಯುವಚೇತನ",0);?>
+			<?php print_widget("ಚಿತ್ರಕಥೆ",0);?>							
 		</div>
 		
 		<div class="column2">
 					<?php print_widget("ಯೋಗವಾಸಿಷ್ಠದ ಕಥೆಗಳು",1);?>
 					<?php print_widget("ವಿಶೇಷ ಲೇಖನ",1);?>		
-					<?php print_widget("ಮಾನಸ ಸರೋವರ ಯಾತ್ರೆ",1);?>		
-					<?php print_widget("ಭಗವದ್ಗೀತಾ ತತ್ತ್ವಸೌರಭ",1);?>		
-					<?php print_widget("ಆಧ್ಯಾತ್ಮಿಕ ಸಂಭಾಷಣೆ",1);?>									
-					<?php print_widget("ಚಿತ್ರಕಥೆ",1);?>							
+					<?php print_widget("ಭಗವದ್ಗೀತಾ ತತ್ತ್ವ ಸೌರಭ",1);?>		
 		</div>
 		<div class="column3">
 			<div class="art_widget_index">
@@ -92,8 +89,7 @@
 				</div>				
 			</div>			
 			<?php print_widget("ಧಾರಾವಾಹಿ",2);?>
-			<?php print_widget("ಜಪಾನಿನ ನೀತಿಕಥೆಗಳು",1);?>
-			<?php print_widget("ಯೋಗವಾಸಿಷ್ಠದ ಕಥೆಗಳು:ಕಥಾಗುಚ್ಛ ೪",1);?>
+			<?php print_widget("ಆಧ್ಯಾತ್ಮಿಕ ಸಂಭಾಷಣೆ",2);?>									
 		</div>
 	</div>
 	<div class="footer">
