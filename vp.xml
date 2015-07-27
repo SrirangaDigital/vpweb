@@ -28595,7 +28595,7 @@
 			</entry>
 			<entry>
 				<title>ಯುವಚೇತನ</title>
-				<feature>ಯುವಚೇತನ</feature>
+				<feature></feature>
 				<text>ನಾವೀಗ ಯಾವ ಗುರಿಯನ್ನು ಅನುಸರಿಸಬೇಕು?</text>
 				<page>23</page>
 				<allauthors>
@@ -28679,6 +28679,116 @@
 				<feature>ಚಿತ್ರಕಥೆ</feature>
 				<text>ಗೋಮಾಬಾಯಿ ಪಂಡರಾಪುರದ ದೇವತೆಯಾದ ಭಗವಾನ್ ಪಾಂಡುರಂಗನ ಭಕ್ತೆ</text>
 				<page>36</page>
+				<allauthors>
+					<author salut=""></author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="07" month="7" year="2015" theme="">
+			<entry>
+				<title>ಪ್ರಾರ್ಥನೆ - ಗುರೂಪಸತ್ತಿ ಸೂಕ್ತಿಪ್ರಭ - ವೇಮನನ ಸೂಕ್ತಿಗಳು</title>
+				<feature>ಪ್ರಾರ್ಥನೆ</feature>
+				<text></text>
+				<page>3</page>
+				<allauthors>
+					<author salut=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಧರ್ಮ ಮತ್ತು ಶ್ರದ್ಧೆ</title>
+				<feature>ಸಂಪಾದಕೀಯ</feature>
+				<text></text>
+				<page>5</page>
+				<allauthors>
+					<author salut=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಕ್ಷೇತ್ರ ಮತ್ತು ಕ್ಷೇತ್ರಜ್ಞ</title>
+				<feature>ಭಗವದ್ಗೀತಾ ತತ್ತ್ವ ಸೌರಭ</feature>
+				<text>ಸಾಮಾನ್ಯವಾಗಿ ನಮ್ಮ ಗಮನವೆಲ್ಲ ಹೊರಮುಖವಾಗಿರುತ್ತದೆ ಹೊರಜಗತ್ತು ನಮಗೆ</text>
+				<page>24</page>
+				<allauthors>
+					<author salut="ಸ್ವಾಮಿ">ನಿತ್ಯಸ್ಥಾನಂದ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಸಚ್ಚಿದಾನಂದನೇ ಗುರು</title>
+				<feature>ಶ್ರೀರಾಮಕೃಷ್ಣ ವಚನವೇದದಿಂದ</feature>
+				<text>ಎಲ್ಲರಿಗೂ ಮುಕ್ತಿ ದೊರೆಯುತ್ತದೆ. ಆದರೆ ಗುರುವಿನ ಉಪದೇಶಕ್ಕನುಸಾರ ನಡೆದುಕೊಳ್ಳಬೇಕು</text>
+				<page>28</page>
+				<allauthors>
+					<author salut=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಸ್ವಾಮಿ ಭೂತೇಶಾನಂದಜಿಯವರೊಂದಿಗೆ</title>
+				<feature>ಆಧ್ಯಾತ್ಮಿಕ ಸಂಭಾಷಣೆ</feature>
+				<text>ಯಾರದು ಕೊನೆಯ ಜನ್ಮವೋ ಅವರು ಇಲ್ಲಿಗೆ ಬಂದೇ ತೀರಬೇಕು ಎಂದು ಶ್ರೀರಾಮಕೃಷ್ಣರು ಹೇಳುತ್ತಾರೆ</text>
+				<page>29</page>
+				<allauthors>
+					<author salut=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಸುದ್ದಿ ಸಂಚಯ</title>
+				<feature></feature>
+				<text></text>
+				<page>39</page>
+				<allauthors>
+					<author salut=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಗುರುಕೃಪೆ</title>
+				<feature>ವಿಶೇಷ ಲೇಖನ</feature>
+				<text>ಈ ಹೆಸರು ಸಾಧಕನ ಮನಸ್ಸಿನಲ್ಲಿ ಒಮ್ಮೆಲೆ ತಂದೆಯಲ್ಲಿನ ರಕ್ಷಣೆ</text>
+				<page>9</page>
+				<allauthors>
+					<author salut="ಸ್ವಾಮಿ">ಕರುಣಾಕರಾನಂದ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಗುರುವಿನ ಆದರ್ಶ ಮತ್ತು ಆಧುನಿಕ ಶಿಕ್ಷಣ</title>
+				<feature>ವಿಶೇಷ ಲೇಖನ</feature>
+				<text>ಶಿಕ್ಷಣ ಎಂದೊಡನೆ ಮೊದಲು ನಮ್ಮ ಗಮನಕ್ಕೆ ಬರುವುದು ಗುರು-ಶಿಷ್ಯ ಸಂಬಂಧ</text>
+				<page>19</page>
+				<allauthors>
+					<author salut="ಡಾ">ರಾಜೇಂದ್ರ.ಡಿ.ಕೆ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಸ್ವಾಮಿ ಅಖಂಡಾನಂದರ ಸ್ಮೃತಿಸಂಚಯ - ಭಾಗ ೯</title>
+				<feature>ಧಾರಾವಾಹಿ</feature>
+				<text>ಬಾಬಾ ಹೇಳತೊಡಗಿದರು ೧೪ ವರ್ಷಗಳ ಕಾಲ ನನಗೆ ಹಣದ ಸ್ಪರ್ಶವೇ ಇರಲಿಲ್ಲ. ಗಿರಿ, ವನಗಳಲ್ಲಿ ಸಂಚರಿಸುತ್ತಿದ್ದಾಗ ಒಂದೇ</text>
+				<page>13</page>
+				<allauthors>
+					<author salut="ಸ್ವಾಮಿ">ನಿರಾಮಯಾನಂದ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಕೈಲಾಸ-ಮಾನಸ ಸರೋವರ ಯಾತ್ರೆ - ಭಾಗ ೨</title>
+				<feature>ಧಾರಾವಾಹಿ</feature>
+				<text>ಲ್ಹಾಸಾದಲ್ಲಿದ್ದುಕೊಂಡು ದಲೈಲಾಮಾ ಅವರು ಟಿಬೆಟ್ ದೇಶವನ್ನು ಆಲುತ್ತಿದ್ದರು</text>
+				<page>16</page>
+				<allauthors>
+					<author salut="ಸ್ವಾಮಿ">ದಾಮೋದರಾನಂದ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಇಂದ್ರ ಮತ್ತು ಅಹಲ್ಯೆಯ ಕಥೆ</title>
+				<feature>ಯೋಗವಾಸಿಷ್ಠದ ಕಥೆಗಳು</feature>
+				<text>ವಸಿಷ್ಠರು ರಾಮಚಂದ್ರನಿಗೆ ಉಪದೇಶ ಮಾಡುತ್ತಿದ್ದಾರೆ</text>
+				<page>32</page>
+				<allauthors>
+					<author salut="ಸ್ವಾಮಿ">ವೀರೇಶಾನಂದ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಗುರುದಕ್ಷಿಣೆ</title>
+				<feature>ಚಿತ್ರಕಥೆ</feature>
+				<text>ವರತಂತು ಋಷಿಗಳ ಗುರುಕುಲದಲ್ಲಿ ಹಲವು ಮಂದಿ ಶಿಷ್ಯಂದಿರು ವಿದ್ಯಾಭ್ಯಾಸ ಮಾಡುತ್ತಿದ್ದರು</text>
+				<page>35</page>
 				<allauthors>
 					<author salut=""></author>
 				</allauthors>
