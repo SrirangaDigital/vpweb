@@ -89,7 +89,8 @@
 				</div>				
 			</div>			
 			<?php print_widget("ಧಾರಾವಾಹಿ",2);?>
-			<?php print_widget("ಆಧ್ಯಾತ್ಮಿಕ ಸಂಭಾಷಣೆ",2);?>									
+			<?php print_widget("ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರ ಆದರ್ಶಗಳು",2);?>									
+			<?php print_widget("ಭಗವದ್ಗೀತೆ",2);?>									
 		</div>
 	</div>
 	<div class="footer">
