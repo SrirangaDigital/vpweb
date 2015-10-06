@@ -45,31 +45,42 @@
 		<div class="column1">
 			<?php 
 					include("html/connect.php");
+					include("html/functions.php");
+
 					$month=array("ಜನವರಿ","ಫೆಬ್ರವರಿ","ಮಾರ್ಚ್","ಏಪ್ರಿಲ್","ಮೇ","ಜೂನ್","ಜುಲೈ","ಆಗಸ್ಟ್","ಸೆಪ್ಟೆಂಬರ್","ಅಕ್ಟೋಬರ್","ನವೆಂಬರ್","ಡಿಸೆಂಬರ್");
 					$db=mysql_connect($host,$user,$password) or die("Not Connected To Database".mysql_error());
 					mysql_select_db($database,$db);
 					mysql_set_charset("utf8",$db);
-					$query1 = "select * from article where volume='$volume' and issue='$issue' and feature='ಸಂಪಾದಕೀಯ' limit 1";
-					$result=mysql_query("select * from article where volume='$volume' and issue='$issue' and feature='ಸಂಪಾದಕೀಯ' limit 1");
-					$row=mysql_fetch_assoc($result);
+					
+					#get current volume, issue details
+					$currentIssueDetails = getCurrentVolumeIssue($database,$db);
+					$volume = $currentIssueDetails['volume'];
+					$issue = $currentIssueDetails['issue'];
+					
+					//~ echo $volume . "->" . $issue . "<br />";
+
+					
+					$query2 = "select * from article where volume='$volume' and issue='$issue' and feature='ಸಂಪಾದಕೀಯ' limit 1";
+					$result2=mysql_query("select * from article where volume='$volume' and issue='$issue' and feature='ಸಂಪಾದಕೀಯ' limit 1");
+					$row2=mysql_fetch_assoc($result2);
 	
 					echo "<div class=\"widget\">"; 
-					echo "<div class=\"tbar\">".$month[$row['issue']-1]." ಸಂಚಿಕೆ</div>";
+					echo "<div class=\"tbar\">".$month[$row2['issue']-1]." ಸಂಚಿಕೆ</div>";
 					echo "<img src=\"html/images/viveka.png\" alt=\"cover\"/><br />";
 					echo "<img src=\"html/images/cover.png\" alt=\"175 Anniversary\"/><br />";
-					echo "<span class=\"title\">".$row['theme']."<br/></span>";
-					echo "<span class=\"text\"><a href=\"Volumes/".$row['volume']."/".$row['issue']."/index.djvu?djvuopts&page=".$row['page']."&zoom=page\" target=\"_blank\">ಸಂಪಾದಕೀಯ: ".$row['title']."</a></span>";
+					echo "<span class=\"title\">".$row2['theme']."<br/></span>";
+					echo "<span class=\"text\"><a href=\"Volumes/".$row2['volume']."/".$row2['issue']."/index.djvu?djvuopts&page=".$row2['page']."&zoom=page\" target=\"_blank\">ಸಂಪಾದಕೀಯ: ".$row2['title']."</a></span>";
 					echo "</div>";
 			?>
-			<?php print_widget("ಶ್ರೀರಾಮಕೃಷ್ಣ ವಚನವೇದದಿಂದ",0);?>										
-			<?php print_widget("ಪುಸ್ತಕ ಪರಿಚಯ",0);?>
-			<?php print_widget("ಚಿತ್ರಕಥೆ",0);?>							
+			<?php print_widget("ಶ್ರೀರಾಮಕೃಷ್ಣ ವಚನವೇದದಿಂದ",0,$volume,$issue);?>										
+			<?php print_widget("ಪುಸ್ತಕ ಪರಿಚಯ",0,$volume,$issue);?>
+			<?php print_widget("ಚಿತ್ರಕಥೆ",0,$volume,$issue);?>							
 		</div>
 		
 		<div class="column2">
-					<?php print_widget("ಯೋಗವಾಸಿಷ್ಠದ ಕಥೆಗಳು",1);?>
-					<?php print_widget("ವಿಶೇಷ ಲೇಖನ",1);?>		
-					<?php print_widget("ಭಗವದ್ಗೀತಾ ತತ್ತ್ವ ಸೌರಭ",1);?>		
+					<?php print_widget("ಯೋಗವಾಸಿಷ್ಠದ ಕಥೆಗಳು",1,$volume,$issue);?>
+					<?php print_widget("ವಿಶೇಷ ಲೇಖನ",1,$volume,$issue);?>		
+					<?php print_widget("ಭಗವದ್ಗೀತಾ ತತ್ತ್ವ ಸೌರಭ",1,$volume,$issue);?>		
 		</div>
 		<div class="column3">
 			<div class="art_widget_index">
@@ -88,9 +99,9 @@
 					<span class="furtherspan"><a href="http://www.caminova.net/en/downloads/download.aspx?id=1" target="_blank">ಲೇಖನಗಳನ್ನು ಡೆಜವೂ (DjVu) ರೂಪದಲ್ಲಿಟ್ಟಿದೆ. ಅವುಗಳನ್ನು ನೋಡಲು ಡೆಜವೂ ಪ್ಲಗಿನ್ ಅಗತ್ಯ. ಇದು ಮುಕ್ತವಾಗಿ ಇಲ್ಲಿ ಸಿಗುತ್ತದೆ:</a></span><br />
 				</div>				
 			</div>			
-			<?php print_widget("ಧಾರಾವಾಹಿ",2);?>
-			<?php print_widget("ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರ ಆದರ್ಶಗಳು",2);?>									
-			<?php print_widget("ಭಗವದ್ಗೀತೆ",2);?>									
+			<?php print_widget("ಧಾರಾವಾಹಿ",2,$volume,$issue);?>
+			<?php print_widget("ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರ ಆದರ್ಶಗಳು",2,$volume,$issue);?>									
+			<?php print_widget("ಭಗವದ್ಗೀತೆ",2,$volume,$issue);?>									
 		</div>
 	</div>
 	<div class="footer">
@@ -110,7 +121,7 @@
 		</div>
 	</div>
 <?php
-	function print_widget($feature, $column)
+	function print_widget($feature, $column,$volume,$issue)
 	{
 		include("html/connect.php");
 		$db_con=mysql_connect($host,$user,$password) or die("Not connected To database");

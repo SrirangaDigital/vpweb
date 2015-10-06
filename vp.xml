@@ -3,7 +3,7 @@
 
 <vp>
 	<volume vnum="001">
-		<issue inum="01" month="1" year="2000" theme="">
+		<issue inum="01" month="01" year="2000" theme="">
 			<entry>
 				<title>ಪ್ರಾರ್ಥನೆ</title>
 				<feature>ಪ್ರಾರ್ಥನೆ</feature>
@@ -158,7 +158,7 @@
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="02" month="2" year="2000" theme="">
+		<issue inum="02" month="02" year="2000" theme="">
 			<entry>
 				<title>ಪ್ರಾರ್ಥನೆ</title>
 				<feature>ಪ್ರಾರ್ಥನೆ</feature>
@@ -313,7 +313,7 @@
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="03" month="3" year="2000" theme="">
+		<issue inum="03" month="03" year="2000" theme="">
 			<entry>
 				<title>ಪ್ರಾರ್ಥನೆ</title>
 				<feature>ಪ್ರಾರ್ಥನೆ</feature>
@@ -468,7 +468,7 @@
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="04" month="4" year="2000" theme="">
+		<issue inum="04" month="04" year="2000" theme="">
 			<entry>
 				<title>ಪ್ರಾರ್ಥನೆ</title>
 				<feature>ಪ್ರಾರ್ಥನೆ</feature>
@@ -632,7 +632,7 @@
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="05" month="5" year="2000" theme="">
+		<issue inum="05" month="05" year="2000" theme="">
 			<entry>
 				<title>ಪ್ರಾರ್ಥನೆ</title>
 				<feature>ಪ್ರಾರ್ಥನೆ</feature>
@@ -796,7 +796,7 @@
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="06" month="6" year="2000" theme="">
+		<issue inum="06" month="06" year="2000" theme="">
 			<entry>
 				<title>ಪ್ರಾರ್ಥನೆ</title>
 				<feature>ಪ್ರಾರ್ಥನೆ</feature>
@@ -960,7 +960,7 @@
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="07" month="7" year="2000" theme="">
+		<issue inum="07" month="07" year="2000" theme="">
 			<entry>
 				<title>ಪ್ರಾರ್ಥನೆ</title>
 				<feature>ಪ್ರಾರ್ಥನೆ</feature>
@@ -1097,7 +1097,7 @@
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="08" month="8" year="2000" theme="">
+		<issue inum="08" month="08" year="2000" theme="">
 			<entry>
 				<title>ಪ್ರಾರ್ಥನೆ</title>
 				<feature>ಪ್ರಾರ್ಥನೆ</feature>
@@ -1261,7 +1261,7 @@
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="09" month="9" year="2000" theme="">
+		<issue inum="09" month="09" year="2000" theme="">
 			<entry>
 				<title>ಪ್ರಾರ್ಥನೆ</title>
 				<feature>ಪ್ರಾರ್ಥನೆ</feature>
@@ -1901,7 +1901,7 @@
 		</issue>
 	</volume>
 	<volume vnum="002">
-		<issue inum="01" month="1" year="2001" theme="">
+		<issue inum="01" month="01" year="2001" theme="">
 			<entry>
 				<title>ಪೂರ್ಣಾವತಾರ ಶ್ರೀಕೃಷ್ಣ</title>
 				<feature></feature>
@@ -2092,7 +2092,7 @@
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="02" month="2" year="2001" theme="">
+		<issue inum="02" month="02" year="2001" theme="">
 			<entry>
 				<title>ಶ್ರೀರಾಮಕೃಷ್ಣ ಪ್ರಣಾಮ ಮಂತ್ರ</title>
 				<feature></feature>
@@ -2247,7 +2247,7 @@
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="03" month="3" year="2001" theme="">
+		<issue inum="03" month="03" year="2001" theme="">
 			<entry>
 				<title>ಶ್ರೀರಾಮಕೃಷ್ಣ ಪ್ರಣಾಮ ಮಂತ್ರ</title>
 				<feature></feature>
@@ -2384,7 +2384,7 @@
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="04" month="4" year="2001" theme="">
+		<issue inum="04" month="04" year="2001" theme="">
 			<entry>
 				<title>ವೈಯಕ್ತಿಕತೆಯಿಂದ ಮಾನವೀಯತೆಯೆಡೆಗೆ</title>
 				<feature></feature>
@@ -2548,7 +2548,7 @@
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="05" month="5" year="2001" theme="">
+		<issue inum="05" month="05" year="2001" theme="">
 			<entry>
 				<title>ಹಿಮಾಚಲದ ಶಕ್ತಿಪೀಠಗಳಲ್ಲಿ ಮೂರು ದಿನ</title>
 				<feature></feature>
@@ -2676,7 +2676,7 @@
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="06" month="6" year="2001" theme="">
+		<issue inum="06" month="06" year="2001" theme="">
 			<entry>
 				<title>ಪಂಚದಶಿಯಲ್ಲಿ ನಾಟಕ ದೀಪ</title>
 				<feature></feature>
@@ -2849,7 +2849,7 @@
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="07" month="7" year="2001" theme="">
+		<issue inum="07" month="07" year="2001" theme="">
 			<entry>
 				<title>ಗುರು</title>
 				<feature></feature>
@@ -2986,7 +2986,7 @@
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="08" month="8" year="2001" theme="">
+		<issue inum="08" month="08" year="2001" theme="">
 			<entry>
 				<title>ಅಪರಾಧಿಯ ಕಟ್ಟೆಯಲ್ಲಿ</title>
 				<feature></feature>
@@ -3141,7 +3141,7 @@
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="09" month="9" year="2001" theme="">
+		<issue inum="09" month="09" year="2001" theme="">
 			<entry>
 				<title>ಬದುಕಿನಲ್ಲಿ ಸುಖ ದುಃಖಗಳ ಅರ್ಥ</title>
 				<feature></feature>
@@ -3826,7 +3826,7 @@
 		</issue>
 	</volume>
 	<volume vnum="003">
-		<issue inum="01" month="1" year="2002" theme="">
+		<issue inum="01" month="01" year="2002" theme="">
 			<entry>
 				<title>ಕರ್ಮವೊಂದು ಆಧ್ಯಾತ್ಮಿಕ ಸಾಧನೆ</title>
 				<feature></feature>
@@ -3972,7 +3972,7 @@
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="02" month="2" year="2002" theme="">
+		<issue inum="02" month="02" year="2002" theme="">
 			<entry>
 				<title>ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರ ದಿವ್ಯಮೃತಿ</title>
 				<feature></feature>
@@ -4136,7 +4136,7 @@
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="03" month="3" year="2002" theme="">
+		<issue inum="03" month="03" year="2002" theme="">
 			<entry>
 				<title>ಶೈವ ಮತ್ತು ವೀರಶೈವ ಧರ್ಮಗಳಲ್ಲಿ ಮೋಕ್ಷದ ಕಲ್ಪನೆ</title>
 				<feature></feature>
@@ -4282,7 +4282,7 @@
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="04" month="4" year="2002" theme="">
+		<issue inum="04" month="04" year="2002" theme="">
 			<entry>
 				<title>ಕೆಲಸದಲ್ಲಿ ನೆಲಿವು</title>
 				<feature></feature>
@@ -4419,7 +4419,7 @@
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="05" month="5" year="2002" theme="">
+		<issue inum="05" month="05" year="2002" theme="">
 			<entry>
 				<title>ಕರ್ಮವೊಂದು ಆಧ್ಯಾತ್ಮಿಕ ಸಾಧನೆ</title>
 				<feature></feature>
@@ -4592,7 +4592,7 @@
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="06" month="6" year="2002" theme="">
+		<issue inum="06" month="06" year="2002" theme="">
 			<entry>
 				<title>ಕರ್ಮವೊಂದು ಆಧ್ಯಾತ್ಮಿಕ ಸಾಧನೆ</title>
 				<feature></feature>
@@ -4756,7 +4756,7 @@
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="07" month="7" year="2002" theme="">
+		<issue inum="07" month="07" year="2002" theme="">
 			<entry>
 				<title>ಚಿರಂಜೀವಿ ವಿವೇಕಾನಂದ</title>
 				<feature></feature>
@@ -4929,7 +4929,7 @@
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="08" month="8" year="2002" theme="">
+		<issue inum="08" month="08" year="2002" theme="">
 			<entry>
 				<title>ಸಂತ ಜ್ಞಾನೇಶ್ವರರು</title>
 				<feature></feature>
@@ -5093,7 +5093,7 @@
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="09" month="9" year="2002" theme="">
+		<issue inum="09" month="09" year="2002" theme="">
 			<entry>
 				<title>ರಾಮಾಯಣದಲ್ಲಿ ಮೌಲ್ಯವ್ಯವಸ್ಥೆ</title>
 				<feature></feature>
@@ -5769,7 +5769,7 @@
 		</issue>
 	</volume>
 	<volume vnum="004">
-		<issue inum="01" month="1" year="2003" theme="">
+		<issue inum="01" month="01" year="2003" theme="">
 			<entry>
 				<title>ಎಕ್ವಿನಾಸನ ದೃಷ್ಟಿಯಲ್ಲಿ ಜ್ಞಾನ</title>
 				<feature></feature>
@@ -5915,7 +5915,7 @@
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="02" month="2" year="2003" theme="">
+		<issue inum="02" month="02" year="2003" theme="">
 			<entry>
 				<title>ಸ್ವಾಮಿ ಬ್ರಹ್ಮಾನಂದರ ನೆನಪುಗಳು</title>
 				<feature></feature>
@@ -6070,7 +6070,7 @@
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="03" month="3" year="2003" theme="">
+		<issue inum="03" month="03" year="2003" theme="">
 			<entry>
 				<title>ಶ್ರೀ ರಾಮಕೃಷ್ಣ-ವಿವೇಕಾನಂದರು</title>
 				<feature></feature>
@@ -6225,7 +6225,7 @@
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="04" month="4" year="2003" theme="">
+		<issue inum="04" month="04" year="2003" theme="">
 			<entry>
 				<title>ಭಾರತೀಯ ರಾಜ್ಯಾದಲಿತದ ಆಧ್ಯಾತ್ಮಿಕ ಹಿನ್ನಲೆ</title>
 				<feature></feature>
@@ -6371,7 +6371,7 @@
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="05" month="5" year="2003" theme="">
+		<issue inum="05" month="05" year="2003" theme="">
 			<entry>
 				<title>ಆಚಾರ್ಯ ರಾಮಾನುಜ</title>
 				<feature></feature>
@@ -6544,7 +6544,7 @@
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="06" month="6" year="2003" theme="">
+		<issue inum="06" month="06" year="2003" theme="">
 			<entry>
 				<title>ಮಹಾಭಕ್ತೆ ಗೋಪಾಲೇರ್ ಮಾ</title>
 				<feature></feature>
@@ -6672,7 +6672,7 @@
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="07" month="7" year="2003" theme="">
+		<issue inum="07" month="07" year="2003" theme="">
 			<entry>
 				<title>ಗುರುವಂದನಾ</title>
 				<feature></feature>
@@ -6818,7 +6818,7 @@
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="08" month="8" year="2003" theme="">
+		<issue inum="08" month="08" year="2003" theme="">
 			<entry>
 				<title>ಸ್ವಾಮಿ ರಾಮಕೃಷ್ಣಾನಂದರು - ನಾ ಕಂಡಂತೆ</title>
 				<feature></feature>
@@ -6964,7 +6964,7 @@
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="09" month="9" year="2003" theme="">
+		<issue inum="09" month="09" year="2003" theme="">
 			<entry>
 				<title>ಸಂಘಟನೆ ಸುಲಭವಲ್ಲ</title>
 				<feature></feature>
@@ -7595,7 +7595,7 @@
 		</issue>
 	</volume>
 	<volume vnum="005">
-		<issue inum="01" month="1" year="2004" theme="">
+		<issue inum="01" month="01" year="2004" theme="">
 			<entry>
 				<title>ಸೇವೆಯೇ ಸಾಧನೆ</title>
 				<feature></feature>
@@ -7723,7 +7723,7 @@
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="02" month="2" year="2004" theme="">
+		<issue inum="02" month="02" year="2004" theme="">
 			<entry>
 				<title>ಶ್ರೀಶಾರದಾದೇವಿಯವರಲ್ಲಿ ಗುರುಶಕ್ತಿಯ ಅಭಿವ್ಯಕ್ತಿ</title>
 				<feature></feature>
@@ -7851,7 +7851,7 @@
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="03" month="3" year="2004" theme="">
+		<issue inum="03" month="03" year="2004" theme="">
 			<entry>
 				<title>ಏಕಾಗ್ರತೆ ಮತ್ತು ಧ್ಯಾನ -೧</title>
 				<feature></feature>
@@ -7988,7 +7988,7 @@
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="04" month="4" year="2004" theme="">
+		<issue inum="04" month="04" year="2004" theme="">
 			<entry>
 				<title>ನಾಲ್ವರು ಮಹಾಶಿಷ್ಯರು -೧</title>
 				<feature></feature>
@@ -8134,7 +8134,7 @@
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="05" month="5" year="2004" theme="">
+		<issue inum="05" month="05" year="2004" theme="">
 			<entry>
 				<title>ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರು ಮತ್ತು ಬುದ್ಧ</title>
 				<feature></feature>
@@ -8280,7 +8280,7 @@
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="06" month="6" year="2004" theme="">
+		<issue inum="06" month="06" year="2004" theme="">
 			<entry>
 				<title>ಪ್ರಕೃತಿ-ಪುರುಷ ಅಂದರೇನು?</title>
 				<feature></feature>
@@ -8426,7 +8426,7 @@
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="07" month="7" year="2004" theme="">
+		<issue inum="07" month="07" year="2004" theme="">
 			<entry>
 				<title>ಶ್ರೀಮಾತೆಯವರ ವಿವೇಕಪ್ರಜ್ಞೆ</title>
 				<feature></feature>
@@ -8563,7 +8563,7 @@
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="08" month="8" year="2004" theme="">
+		<issue inum="08" month="08" year="2004" theme="">
 			<entry>
 				<title>ಮಾತೃಪ್ರೇಮ ಯೋಗ</title>
 				<feature></feature>
@@ -8691,7 +8691,7 @@
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="09" month="9" year="2004" theme="">
+		<issue inum="09" month="09" year="2004" theme="">
 			<entry>
 				<title>ಯಶೋದೆಯು ಶ್ರೀಕೃಷ್ಣನನ್ನು ಕಟ್ಟಿದಳೇ?- ಒಂದು ತಾತ್ತ್ವಿಕ ಚಿಂತನೆ</title>
 				<feature></feature>
@@ -9241,7 +9241,7 @@
 		</issue>
 	</volume>
 	<volume vnum="006">
-		<issue inum="01" month="1" year="2005" theme="">
+		<issue inum="01" month="01" year="2005" theme="">
 			<entry>
 				<title>ಪ್ರಾರ್ಥನೆ</title>
 				<feature>ಪ್ರಾರ್ಥನೆ</feature>
@@ -9360,7 +9360,7 @@
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="02" month="2" year="2005" theme="">
+		<issue inum="02" month="02" year="2005" theme="">
 			<entry>
 				<title>ಪ್ರಾರ್ಥನೆ</title>
 				<feature>ಪ್ರಾರ್ಥನೆ</feature>
@@ -9506,7 +9506,7 @@
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="03" month="3" year="2005" theme="">
+		<issue inum="03" month="03" year="2005" theme="">
 			<entry>
 				<title>ದೈವೀ ಸಾನ್ನಿಧ್ಯದ ಮೇಲೆ ಧ್ಯಾನ</title>
 				<feature></feature>
@@ -9670,7 +9670,7 @@
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="04" month="4" year="2005" theme="">
+		<issue inum="04" month="04" year="2005" theme="">
 			<entry>
 				<title>ಶ್ರೀಮತ್ ಸ್ವಾಮಿ ಪುರುಷೋತ್ತಮಾನಂದಜಿ ಮಹಾರಾಜ್- ಒಂದು ಶ್ರದ್ಧಾಂಜಲಿ</title>
 				<feature></feature>
@@ -9834,7 +9834,7 @@
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="05" month="5" year="2005" theme="">
+		<issue inum="05" month="05" year="2005" theme="">
 			<entry>
 				<title>ಸರ್ವಭಾವಮಯ ಶ್ರೀರಾಮಕೃಷ್ಣ</title>
 				<feature></feature>
@@ -9971,7 +9971,7 @@
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="06" month="6" year="2005" theme="">
+		<issue inum="06" month="06" year="2005" theme="">
 			<entry>
 				<title>ಶ್ರೀರಾಮಾನುಜರ ಜೀವನ ಮತ್ತು ಸಾಧನೆ -೨</title>
 				<feature></feature>
@@ -10117,7 +10117,7 @@
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="07" month="7" year="2005" theme="">
+		<issue inum="07" month="07" year="2005" theme="">
 			<entry>
 				<title>ರಾಮಕೃಷ್ಣ ಮಹಾಸಂಘದ ನೂತನ ಪರಮಾಧ್ಯಕ್ಷರು</title>
 				<feature></feature>
@@ -10263,7 +10263,7 @@
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="08" month="8" year="2005" theme="">
+		<issue inum="08" month="08" year="2005" theme="">
 			<entry>
 				<title>ಶ್ರೀರಾಮಾನುಜರ ಜೀವನ ಮತ್ತು ಸಾಧನೆ -೪</title>
 				<feature></feature>
@@ -10382,7 +10382,7 @@
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="09" month="9" year="2005" theme="">
+		<issue inum="09" month="09" year="2005" theme="">
 			<entry>
 				<title>ನಮ್ಮ ಜೀವನದ ಸಮಸ್ಯೆಗಳನ್ನು ಎದುರಿಸುವ ಬಗೆ ಹೇಗೆ?</title>
 				<feature></feature>
@@ -10932,7 +10932,7 @@
 		</issue>
 	</volume>
 	<volume vnum="007">
-		<issue inum="01" month="1" year="2006" theme="">
+		<issue inum="01" month="01" year="2006" theme="">
 			<entry>
 				<title>ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರ ಸಂದೇಶ</title>
 				<feature></feature>
@@ -11069,7 +11069,7 @@
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="02" month="2" year="2006" theme="">
+		<issue inum="02" month="02" year="2006" theme="">
 			<entry>
 				<title>ಮೌನದಲ್ಲಿ ಅರಳಿದ ಜ್ಞಾನಕುಸುಮ</title>
 				<feature></feature>
@@ -11197,7 +11197,7 @@
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="03" month="3" year="2006" theme="">
+		<issue inum="03" month="03" year="2006" theme="">
 			<entry>
 				<title>ಶ್ರೀರಾಮಕೃಷ್ಣ ಭಕ್ತಸಮಾಜ</title>
 				<feature></feature>
@@ -11334,7 +11334,7 @@
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="04" month="4" year="2006" theme="">
+		<issue inum="04" month="04" year="2006" theme="">
 			<entry>
 				<title>ತುಲಸೀದಾಸರ ಶ್ರೀರಾಮಚರಿತಮಾನಸ</title>
 				<feature></feature>
@@ -11471,7 +11471,7 @@
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="05" month="5" year="2006" theme="">
+		<issue inum="05" month="05" year="2006" theme="">
 			<entry>
 				<title>ವೇದಾಂತವು ಶೋಧಕ ವಿಜ್ಞಾನ, ಅದು ಸಂಕುಚಿತ ಸಿದ್ಧಾಂತವಲ್ಲ</title>
 				<feature></feature>
@@ -11617,7 +11617,7 @@
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="06" month="6" year="2006" theme="">
+		<issue inum="06" month="06" year="2006" theme="">
 			<entry>
 				<title>ಸ್ವಾಮಿ ಶಿವಾನಂದರ ನೆನಪುಗಳು</title>
 				<feature></feature>
@@ -11754,7 +11754,7 @@
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="07" month="7" year="2006" theme="">
+		<issue inum="07" month="07" year="2006" theme="">
 			<entry>
 				<title>ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರ ಮಹಾಸಮಾಧಿ- ಇನ್ನಷ್ಟು ವಿವರಗಳು</title>
 				<feature></feature>
@@ -11891,7 +11891,7 @@
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="08" month="8" year="2006" theme="">
+		<issue inum="08" month="08" year="2006" theme="">
 			<entry>
 				<title>ವೇದಾಂತದ ಮೂರು ತತ್ತ್ವಸಿದ್ಧಾಂತಗಳು ಹಾಗೂ ಶ್ರೀರಾಮಕೃಷ್ಣರ ಸಮನ್ವಯ ಸಿದ್ಧಾಂತ -೨</title>
 				<feature></feature>
@@ -12046,7 +12046,7 @@
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="09" month="9" year="2006" theme="">
+		<issue inum="09" month="09" year="2006" theme="">
 			<entry>
 				<title>ಹಿಂದೂ ಧರ್ಮದ ವಿಶ್ವಭಾವೈಕ್ಯತೆ</title>
 				<feature></feature>
@@ -12650,7 +12650,7 @@
 		</issue>
 	</volume>
 	<volume vnum="008">
-		<issue inum="01" month="1" year="2007" theme="">
+		<issue inum="01" month="01" year="2007" theme="">
 			<entry>
 				<title>ಒಂದು ಪತ್ರದ ಸುತ್ತಮುತ್ತ</title>
 				<feature></feature>
@@ -12796,7 +12796,7 @@
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="02" month="2" year="2007" theme="">
+		<issue inum="02" month="02" year="2007" theme="">
 			<entry>
 				<title>ಪುಟ್ಟ ಗದಾಯ್ ಮತ್ತು ಭಕ್ತ ಚಿನು ಶಾಂಖಾರಿ</title>
 				<feature></feature>
@@ -12942,7 +12942,7 @@
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="03" month="3" year="2007" theme="">
+		<issue inum="03" month="03" year="2007" theme="">
 			<entry>
 				<title>ಶ್ರೀಚೈತನ್ಯ ಮಹಾಪ್ರಭು-೧</title>
 				<feature></feature>
@@ -13106,7 +13106,7 @@
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="04" month="4" year="2007" theme="">
+		<issue inum="04" month="04" year="2007" theme="">
 			<entry>
 				<title>ಶ್ರೀಚೈತನ್ಯ ಮಹಾಪ್ರಭು -೨</title>
 				<feature></feature>
@@ -13252,7 +13252,7 @@
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="05" month="5" year="2007" theme="">
+		<issue inum="05" month="05" year="2007" theme="">
 			<entry>
 				<title>ಶ್ರೀಚೈತನ್ಯ ಮಹಾಪ್ರಭು -೩</title>
 				<feature></feature>
@@ -13398,7 +13398,7 @@
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="06" month="6" year="2007" theme="">
+		<issue inum="06" month="06" year="2007" theme="">
 			<entry>
 				<title>ಸ್ವಾಮಿ ಬ್ರಹ್ಮಾನಂದರ ನೆನಪುಗಳು</title>
 				<feature></feature>
@@ -13535,7 +13535,7 @@
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="07" month="7" year="2007" theme="">
+		<issue inum="07" month="07" year="2007" theme="">
 			<entry>
 				<title>ಸ್ವಾಮಿ ಬ್ರಹ್ಮಾನಂದರ ನೆನಪುಗಳು -೨</title>
 				<feature></feature>
@@ -13690,7 +13690,7 @@
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="08" month="8" year="2007" theme="">
+		<issue inum="08" month="08" year="2007" theme="">
 			<entry>
 				<title>ಶ್ರೀಚೈತನ್ಯ ಮಹಾಪ್ರಭು -೬</title>
 				<feature></feature>
@@ -13854,7 +13854,7 @@
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="09" month="9" year="2007" theme="">
+		<issue inum="09" month="09" year="2007" theme="">
 			<entry>
 				<title>ಶ್ರೀಚೈತನ್ಯ ಮಹಾಪ್ರಭು -೭</title>
 				<feature></feature>
@@ -14395,7 +14395,7 @@
 		</issue>
 	</volume>
 	<volume vnum="009">
-		<issue inum="01" month="1" year="2008" theme="">
+		<issue inum="01" month="01" year="2008" theme="">
 			<entry>
 				<title>ಪ್ರಾರ್ಥನೆ</title>
 				<feature>ಪ್ರಾರ್ಥನೆ</feature>
@@ -14712,7 +14712,7 @@
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="02" month="2" year="2008" theme="">
+		<issue inum="02" month="02" year="2008" theme="">
 			<entry>
 				<title>ಪ್ರಾರ್ಥನೆ</title>
 				<feature>ಪ್ರಾರ್ಥನೆ</feature>
@@ -14858,7 +14858,7 @@
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="03" month="3" year="2008" theme="">
+		<issue inum="03" month="03" year="2008" theme="">
 			<entry>
 				<title>ಪ್ರಾರ್ಥನೆ</title>
 				<feature>ಪ್ರಾರ್ಥನೆ</feature>
@@ -14995,7 +14995,7 @@
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="04" month="4" year="2008" theme="">
+		<issue inum="04" month="04" year="2008" theme="">
 			<entry>
 				<title>ಪ್ರಾರ್ಥನೆ</title>
 				<feature>ಪ್ರಾರ್ಥನೆ</feature>
@@ -15159,7 +15159,7 @@
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="05" month="5" year="2008" theme="">
+		<issue inum="05" month="05" year="2008" theme="">
 			<entry>
 				<title>ಪ್ರಾರ್ಥನೆ</title>
 				<feature>ಪ್ರಾರ್ಥನೆ</feature>
@@ -15368,7 +15368,7 @@
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="06" month="6" year="2008" theme="">
+		<issue inum="06" month="06" year="2008" theme="">
 			<entry>
 				<title>ಭವ- ರೋಗ</title>
 				<feature>ಸಂಪಾದಕರು</feature>
@@ -15568,7 +15568,7 @@
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="07" month="7" year="2008" theme="">
+		<issue inum="07" month="07" year="2008" theme="">
 			<entry>
 				<title>ಭಗವದ್ರಹಸ್ಯ(ಭಾಗ ೧ - ಜಗತ್ತಿನ ರಹಸ್ಸ)</title>
 				<feature>ಸಂಪಾದಕರು</feature>
@@ -15777,7 +15777,7 @@
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="08" month="8" year="2008" theme="">
+		<issue inum="08" month="08" year="2008" theme="">
 			<entry>
 				<title>ಭಗವದ್ರಹಸ್ಯ(ಭಾಗ ೨- ಜೀವಿಯ ರಹಸ್ಯ)</title>
 				<feature>ಸಂಪಾದಕರು</feature>
@@ -15995,7 +15995,7 @@
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="09" month="9" year="2008" theme="">
+		<issue inum="09" month="09" year="2008" theme="">
 			<entry>
 				<title>ಭಗವದ್ರಹಸ್ಯ (ಭಾಗ -೩ ಈಶ್ವರ ರಹಸ್ಯ)</title>
 				<feature>ಸಂಪಾದಕರು</feature>
@@ -16698,7 +16698,7 @@
 		</issue>
 	</volume>
 	<volume vnum="010">
-		<issue inum="01" month="1" year="2009" theme="">
+		<issue inum="01" month="01" year="2009" theme="">
 			<entry>
 				<title>ಪರಮ ಅನುಭಾವಿಯಾಗಿ ಶ್ರೀರಾಮಕೃಷ್ಣರು</title>
 				<feature>ಸಂಪಾದಕರು</feature>
@@ -17024,7 +17024,7 @@
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="02" month="2" year="2009" theme="">
+		<issue inum="02" month="02" year="2009" theme="">
 			<entry>
 				<title>ಅಭೀಃ, ಅಭೀಃ, ಅಭೀಃ</title>
 				<feature>ಸಂಪಾದಕರು</feature>
@@ -17179,7 +17179,7 @@
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="03" month="3" year="2009" theme="">
+		<issue inum="03" month="03" year="2009" theme="">
 			<entry>
 				<title>ಪ್ರಾರ್ಥನೆ</title>
 				<feature>ಪ್ರಾರ್ಥನೆ</feature>
@@ -17325,7 +17325,7 @@
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="04" month="4" year="2009" theme="">
+		<issue inum="04" month="04" year="2009" theme="">
 			<entry>
 				<title>ಓದುಗರ ಪ್ರತಿಕ್ರಿಯೆ</title>
 				<feature>ಓದುಗರ ಸ್ಪಂದನ</feature>
@@ -17444,7 +17444,7 @@
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="05" month="5" year="2009" theme="">
+		<issue inum="05" month="05" year="2009" theme="">
 			<entry>
 				<title>ಕಾಲಾ ಬಾಬು ಕುಂಜ್ - ಒಂದು ಮನವಿ</title>
 				<feature></feature>
@@ -17590,7 +17590,7 @@
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="06" month="6" year="2009" theme="">
+		<issue inum="06" month="06" year="2009" theme="">
 			<entry>
 				<title>ಪ್ರಾರ್ಥನೆ, ಸೂಕ್ತಿಪ್ರಭ</title>
 				<feature>ಪ್ರಾರ್ಥನೆ</feature>
@@ -17736,7 +17736,7 @@
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="07" month="7" year="2009" theme="">
+		<issue inum="07" month="07" year="2009" theme="">
 			<entry>
 				<title>ಓದುಗರ ಪ್ರತಿಕ್ರಿಯೆ</title>
 				<feature>ಓದುಗರ ಸ್ಪಂದನ</feature>
@@ -17909,7 +17909,7 @@
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="08" month="8" year="2009" theme="">
+		<issue inum="08" month="08" year="2009" theme="">
 			<entry>
 				<title>ಕಾಲಾ ಬಾಬು ಕುಂಜ್ - ಒಂದು ಮನವಿ</title>
 				<feature></feature>
@@ -18109,7 +18109,7 @@
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="09" month="9" year="2009" theme="">
+		<issue inum="09" month="09" year="2009" theme="">
 			<entry>
 				<title>ಕಾಲಾ ಬಾಬು ಕುಂಜ್ - ಒಂದು ಮನವಿ</title>
 				<feature></feature>
@@ -18713,7 +18713,7 @@
 		</issue>
 	</volume>
 	<volume vnum="011">
-		<issue inum="01" month="1" year="2010" theme="">
+		<issue inum="01" month="01" year="2010" theme="">
 			<entry>
 				<title>ಪ್ರಾರ್ಥನೆ</title>
 				<feature>ಪ್ರಾರ್ಥನೆ</feature>
@@ -18940,7 +18940,7 @@
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="02" month="2" year="2010" theme="">
+		<issue inum="02" month="02" year="2010" theme="">
 			<entry>
 				<title>ಪ್ರಾರ್ಥನೆ</title>
 				<feature>ಪ್ರಾರ್ಥನೆ</feature>
@@ -19077,7 +19077,7 @@
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="03" month="3" year="2010" theme="">
+		<issue inum="03" month="03" year="2010" theme="">
 			<entry>
 				<title>ಪ್ರಾರ್ಥನೆ</title>
 				<feature>ಪ್ರಾರ್ಥನೆ</feature>
@@ -19232,7 +19232,7 @@
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="04" month="4" year="2010" theme="">
+		<issue inum="04" month="04" year="2010" theme="">
 			<entry>
 				<title>ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರ ದೃಷ್ಟಿಯಲ್ಲಿ ವಿಜ್ಞಾನ ಮತ್ತು ಧರ್ಮ</title>
 				<feature>ಸಂಪಾದಕರು</feature>
@@ -19378,7 +19378,7 @@
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="05" month="5" year="2010" theme="">
+		<issue inum="05" month="05" year="2010" theme="">
 			<entry>
 				<title>ಉತ್ತರಮೀಮಾಂಸಾ ದರ್ಶನದಲ್ಲಿ ಬ್ರಹ್ಮಜಿಜ್ಞಾಸೆ</title>
 				<feature>ಸಂಪಾದಕರು</feature>
@@ -19533,7 +19533,7 @@
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="06" month="6" year="2010" theme="">
+		<issue inum="06" month="06" year="2010" theme="">
 			<entry>
 				<title>ಭ್ರಷ್ಟಾಚಾರದ ಅಂತರಂಗ</title>
 				<feature>ಸಂಪಾದಕರು</feature>
@@ -19688,7 +19688,7 @@
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="07" month="7" year="2010" theme="">
+		<issue inum="07" month="07" year="2010" theme="">
 			<entry>
 				<title>ಸ್ಮರಣೆ ಒಂದೇ ಸಾಲದೆ ಗೋವಿಂದನ</title>
 				<feature>ಸಂಪಾದಕರು</feature>
@@ -19843,7 +19843,7 @@
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="08" month="8" year="2010" theme="">
+		<issue inum="08" month="08" year="2010" theme="">
 			<entry>
 				<title>ಸ್ಮರಣೆ ಒಂದೇ ಸಾಲದೆ ಗೋವಿಂದನ</title>
 				<feature>ಸಂಪಾದಕರು</feature>
@@ -19998,7 +19998,7 @@
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="09" month="9" year="2010" theme="">
+		<issue inum="09" month="09" year="2010" theme="">
 			<entry>
 				<title>ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರ ಶೈಕ್ಷಣಿಕ ತತ್ತ್ವ</title>
 				<feature>ಸಂಪಾದಕರು</feature>
@@ -20557,7 +20557,7 @@
 		</issue>
 	</volume>
 	<volume vnum="012">
-		<issue inum="01" month="1" year="2011" theme="">
+		<issue inum="01" month="01" year="2011" theme="">
 			<entry>
 				<title>ಸೂಕ್ತಿಪ್ರಭ</title>
 				<feature>ಪ್ರಾರ್ಥನೆ</feature>
@@ -20784,7 +20784,7 @@
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="02" month="2" year="2011" theme="">
+		<issue inum="02" month="02" year="2011" theme="">
 			<entry>
 				<title>ಸೂಕ್ತಿಪ್ರಭ</title>
 				<feature>ಪ್ರಾರ್ಥನೆ</feature>
@@ -20903,7 +20903,7 @@
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="03" month="3" year="2011" theme="">
+		<issue inum="03" month="03" year="2011" theme="">
 			<entry>
 				<title>ಸೂಕ್ತಿಪ್ರಭ</title>
 				<feature>ಪ್ರಾರ್ಥನೆ</feature>
@@ -21031,7 +21031,7 @@
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="04" month="4" year="2011" theme="">
+		<issue inum="04" month="04" year="2011" theme="">
 			<entry>
 				<title>ಸೂಕ್ತಿಪ್ರಭ</title>
 				<feature>ಪ್ರಾರ್ಥನೆ</feature>
@@ -21141,7 +21141,7 @@
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="05" month="5" year="2011" theme="">
+		<issue inum="05" month="05" year="2011" theme="">
 			<entry>
 				<title>ಸೂಕ್ತಿಪ್ರಭ</title>
 				<feature>ಪ್ರಾರ್ಥನೆ</feature>
@@ -21269,7 +21269,7 @@
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="06" month="6" year="2011" theme="">
+		<issue inum="06" month="06" year="2011" theme="">
 			<entry>
 				<title>ಪ್ರಾರ್ಥನೆ, ಸೂಕ್ತಿಪ್ರಭ</title>
 				<feature>ಪ್ರಾರ್ಥನೆ</feature>
@@ -21406,7 +21406,7 @@
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="07" month="7" year="2011" theme="">
+		<issue inum="07" month="07" year="2011" theme="">
 			<entry>
 				<title>ಸೂಕ್ತಿಪ್ರಭ</title>
 				<feature>ಪ್ರಾರ್ಥನೆ</feature>
@@ -21534,7 +21534,7 @@
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="08" month="8" year="2011" theme="">
+		<issue inum="08" month="08" year="2011" theme="">
 			<entry>
 				<title>ಸೂಕ್ತಿಪ್ರಭ</title>
 				<feature>ಪ್ರಾರ್ಥನೆ</feature>
@@ -21671,7 +21671,7 @@
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="09" month="9" year="2011" theme="">
+		<issue inum="09" month="09" year="2011" theme="">
 			<entry>
 				<title>ಸೂಕ್ತಿಪ್ರಭ</title>
 				<feature>ಪ್ರಾರ್ಥನೆ</feature>
@@ -22185,7 +22185,7 @@
 		</issue>
 	</volume>
 	<volume vnum="013">
-		<issue inum="01" month="1" year="2012" theme="">
+		<issue inum="01" month="01" year="2012" theme="">
 			<entry>
 				<title>ಪ್ರಾರ್ಥನೆ</title>
 				<feature></feature>
@@ -22394,7 +22394,7 @@
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="02" month="2" year="2012" theme="">
+		<issue inum="02" month="02" year="2012" theme="">
 			<entry>
 				<title>ಪ್ರಾರ್ಥನೆ</title>
 				<feature></feature>
@@ -22504,7 +22504,7 @@
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="03" month="3" year="2012" theme="">
+		<issue inum="03" month="03" year="2012" theme="">
 			<entry>
 				<title>ಪ್ರಾರ್ಥನೆ</title>
 				<feature></feature>
@@ -22614,7 +22614,7 @@
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="04" month="4" year="2012" theme="">
+		<issue inum="04" month="04" year="2012" theme="">
 			<entry>
 				<title>ಪ್ರಾರ್ಥನೆ</title>
 				<feature></feature>
@@ -22733,7 +22733,7 @@
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="05" month="5" year="2012" theme="">
+		<issue inum="05" month="05" year="2012" theme="">
 			<entry>
 				<title>ಪ್ರಾರ್ಥನೆ</title>
 				<feature></feature>
@@ -22861,7 +22861,7 @@
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="06" month="6" year="2012" theme="">
+		<issue inum="06" month="06" year="2012" theme="">
 			<entry>
 				<title>ಪ್ರಾರ್ಥನೆ</title>
 				<feature></feature>
@@ -22971,7 +22971,7 @@
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="07" month="7" year="2012" theme="">
+		<issue inum="07" month="07" year="2012" theme="">
 			<entry>
 				<title>ಪ್ರಾರ್ಥನೆ:ವಚನ ಸಾಹಿತ್ಯದಲ್ಲಿ  ಗುರು  ಮಹಾತ್ಮೆ</title>
 				<feature></feature>
@@ -23081,7 +23081,7 @@
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="08" month="8" year="2012" theme="">
+		<issue inum="08" month="08" year="2012" theme="">
 			<entry>
 				<title>ನಿಜಗುಣ ಶಿವಯೋಗಿಗಳ ಕೈವಲ್ಯಪದ್ಧತಿಯಿಂದ</title>
 				<feature></feature>
@@ -23227,7 +23227,7 @@
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="09" month="9" year="2012" theme="">
+		<issue inum="09" month="09" year="2012" theme="">
 			<entry>
 				<title>ಮಹಾಭಾರತದಲ್ಲಿ ಬರುವ ಭೀಷ್ಮೋಪದೇಶ</title>
 				<feature></feature>
@@ -23750,7 +23750,7 @@
 		</issue>
 	</volume>
 	<volume vnum="014">
-		<issue inum="01" month="1" year="2013" theme="">
+		<issue inum="01" month="01" year="2013" theme="">
 			<entry>
 				<title>ಪ್ರಾರ್ಥನೆ</title>
 				<feature></feature>
@@ -24148,7 +24148,7 @@
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="02" month="2" year="2013" theme="">
+		<issue inum="02" month="02" year="2013" theme="">
 			<entry>
 				<title>ಪ್ರಾರ್ಥನೆ, ವಿವೇಕವಾಣಿ, ಡಿ.ವಿ.ಜಿ. ವಾಣಿ, ಸೂಕ್ತಿಪ್ರಭ</title>
 				<feature></feature>
@@ -24348,7 +24348,7 @@
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="03" month="3" year="2013" theme="">
+		<issue inum="03" month="03" year="2013" theme="">
 			<entry>
 				<title>ಪ್ರಾರ್ಥನೆ-ಸೂಕ್ತಿಪ್ರಭ, ಶ್ರೀರಾಮಕೃಷ್ಣ ಬೋಧಾಮೃತ</title>
 				<feature></feature>
@@ -24539,7 +24539,7 @@
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="04" month="4" year="2013" theme="">
+		<issue inum="04" month="04" year="2013" theme="">
 			<entry>
 				<title>ಪ್ರಾರ್ಥನೆ-ಸೂಕ್ತಿಪ್ರಭ, ವಿವೇಕವಾಣಿ, ಡಿ.ವಿ.ಜಿ ವಾಣಿ</title>
 				<feature></feature>
@@ -24721,7 +24721,7 @@
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="05" month="5" year="2013" theme="">
+		<issue inum="05" month="05" year="2013" theme="">
 			<entry>
 				<title>ಪ್ರಾರ್ಥನೆ, ರಾಮಾನುಜ ಸೂಕ್ತಿ, ಸೂಕ್ತಿಪ್ರಭ</title>
 				<feature></feature>
@@ -24912,7 +24912,7 @@
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="06" month="6" year="2013" theme="">
+		<issue inum="06" month="06" year="2013" theme="">
 			<entry>
 				<title>ಪ್ರಾರ್ಥನೆ, ಸೂಕ್ತಿಪ್ರಭ</title>
 				<feature></feature>
@@ -25076,7 +25076,7 @@
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="07" month="7" year="2013" theme="">
+		<issue inum="07" month="07" year="2013" theme="">
 			<entry>
 				<title>ಪ್ರಾರ್ಥನೆ, ಸೂಕ್ತಿಪ್ರಭ</title>
 				<feature></feature>
@@ -25258,7 +25258,7 @@
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="08" month="8" year="2013" theme="">
+		<issue inum="08" month="08" year="2013" theme="">
 			<entry>
 				<title>ಪ್ರಾರ್ಥನೆ, ಶ್ರೀಕೃಷ್ಣ ಸೂಕ್ತಿ, ಭಗವದ್ಗೀತೆಯ ಪ್ರಶಂಸೆ</title>
 				<feature></feature>
@@ -25431,7 +25431,7 @@
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="09" month="9" year="2013" theme="">
+		<issue inum="09" month="09" year="2013" theme="">
 			<entry>
 				<title>ಪ್ರಾರ್ಥನೆ, ವಚನ ಸಂಗ್ರಹ: ಕಾಯವೇ ಕೈಲಾಸ-ದೇಹವೇ ದೇಗುಲ</title>
 				<feature></feature>
@@ -26044,7 +26044,7 @@
 		</issue>
 	</volume>
 	<volume vnum="015">
-		<issue inum="01" month="1" year="2014" theme="ಕ್ರಿಯಾರೂಪಿ ವಿವೇಕಾನಂದ">
+		<issue inum="01" month="01" year="2014" theme="ಕ್ರಿಯಾರೂಪಿ ವಿವೇಕಾನಂದ">
 			<entry>
 				<title>ಪ್ರಾರ್ಥನೆ:ವಿವೇಕ ಸ್ಮೃತಿ</title>
 				<feature></feature>
@@ -26298,7 +26298,7 @@
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="02" month="2" year="2014" theme="ಯುವಚೇತನ - ರಾಷ್ಟ್ರಚೇತನ">
+		<issue inum="02" month="02" year="2014" theme="ಯುವಚೇತನ - ರಾಷ್ಟ್ರಚೇತನ">
 			<entry>
 				<title>ಪ್ರಾರ್ಥನೆ ಮತ್ತು ಸೂಕ್ತಿಪ್ರಭ:ಶಂಕಾರಾಚಾರ್ಯರ &#96;ಹರಿಚರಣಾಷ್ಟಕಮ್&#96;</title>
 				<feature></feature>
@@ -26399,7 +26399,7 @@
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="03" month="3" year="2014" theme="ಶ್ರೀರಾಮಕೃಷ್ಣರ ಜನ್ಮಕ್ಷೇತ್ರ - ಕಾಮಾರಪುಕುರ">
+		<issue inum="03" month="03" year="2014" theme="ಶ್ರೀರಾಮಕೃಷ್ಣರ ಜನ್ಮಕ್ಷೇತ್ರ - ಕಾಮಾರಪುಕುರ">
 			<entry>
 				<title>ಪ್ರಾರ್ಥನೆ ಮತ್ತು ಸೂಕ್ತಿಪ್ರಭ</title>
 				<feature></feature>
@@ -26510,7 +26510,7 @@
 				<allauthors/>
 			</entry>
 		</issue>
-		<issue inum="04" month="4" year="2014" theme="ಓಂಕಾರೇಶ್ವರ  ಕ್ಷೇತ್ರ">
+		<issue inum="04" month="04" year="2014" theme="ಓಂಕಾರೇಶ್ವರ  ಕ್ಷೇತ್ರ">
 			<entry>
 				<title>ಪ್ರಾರ್ಥನೆ ಮತ್ತು ಸೂಕ್ತಿಪ್ರಭ</title>
 				<feature></feature>
@@ -26647,7 +26647,7 @@
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="05" month="5" year="2014" theme="ಬುದ್ಧ ತೋರಿದ ಮಾರ್ಗ">
+		<issue inum="05" month="05" year="2014" theme="ಬುದ್ಧ ತೋರಿದ ಮಾರ್ಗ">
 			<entry>
 				<title>ಪ್ರಾರ್ಥನೆ ಮತ್ತು ಸೂಕ್ತಿಪ್ರಭ</title>
 				<feature></feature>
@@ -26775,7 +26775,7 @@
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="06" month="6" year="2014" theme="ದೇವಾನಾಂಪ್ರಿಯ-ಭಕ್ತಾಗ್ರಣಿ">
+		<issue inum="06" month="06" year="2014" theme="ದೇವಾನಾಂಪ್ರಿಯ-ಭಕ್ತಾಗ್ರಣಿ">
 			<entry>
 				<title>ಪ್ರಾರ್ಥನೆ ಮತ್ತು ಸೂಕ್ತಿಪ್ರಭ</title>
 				<feature></feature>
@@ -26903,7 +26903,7 @@
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="07" month="7" year="2014" theme="ಗುರುತತ್ತ್ವ - ಪರಂಪರೆ">
+		<issue inum="07" month="07" year="2014" theme="ಗುರುತತ್ತ್ವ - ಪರಂಪರೆ">
 			<entry>
 				<title>ಪ್ರಾರ್ಥನೆ ಮತ್ತು ಸೂಕ್ತಿಪ್ರಭ</title>
 				<feature></feature>
@@ -27022,7 +27022,7 @@
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="08" month="8" year="2014" theme="ಸತ್ಯಮೇವ ಜಯತೇ">
+		<issue inum="08" month="08" year="2014" theme="ಸತ್ಯಮೇವ ಜಯತೇ">
 			<entry>
 				<title>ಪ್ರಾರ್ಥನೆ ಮತ್ತು ಸೂಕ್ತಿಪ್ರಭ</title>
 				<feature></feature>
@@ -27141,7 +27141,7 @@
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="09" month="9" year="2014" theme="ಮೂವರು ಶ್ರೇಷ್ಠ ಸಂನ್ಯಾಸಿಗಳು">
+		<issue inum="09" month="09" year="2014" theme="ಮೂವರು ಶ್ರೇಷ್ಠ ಸಂನ್ಯಾಸಿಗಳು">
 			<entry>
 				<title>ಪ್ರಾರ್ಥನೆ ಮತ್ತು ಸೂಕ್ತಿಪ್ರಭ</title>
 				<feature></feature>
@@ -27664,7 +27664,7 @@
 		</issue>		
 	</volume>
 	<volume vnum="016">
-		<issue inum="01" month="1" year="2015" theme="ನಾಮ ಮಹಿಮೆ: ತತ್ತ್ವ ಮತ್ತು ಆಚರಣೆ">
+		<issue inum="01" month="01" year="2015" theme="ನಾಮ ಮಹಿಮೆ: ತತ್ತ್ವ ಮತ್ತು ಆಚರಣೆ">
 			<entry>
 				<title>ಪ್ರಾರ್ಥನೆ ಮತ್ತು ಸೂಕ್ತಿಪ್ರಭ</title>
 				<feature></feature>
@@ -28080,7 +28080,7 @@
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="02" month="2" year="2015" theme="">
+		<issue inum="02" month="02" year="2015" theme="">
 			<entry>
 				<title>ಶ್ರೀರಾಮಕೃಷ್ಣ ಪ್ರಾತಃಸ್ಮರಣಮ್</title>
 				<feature>ಪ್ರಾರ್ಥನೆ</feature>
@@ -28190,7 +28190,7 @@
 				</allauthors>
 			</entry>
 		</issue>	
-		<issue inum="03" month="3" year="2015" theme="">
+		<issue inum="03" month="03" year="2015" theme="">
 			<entry>
 				<title>ಶ್ರೀರಾಮಕೃಷ್ಣ ಪ್ರಾತಃಸ್ಮರಣಮ್</title>
 				<feature>ಪ್ರಾರ್ಥನೆ</feature>
@@ -28318,7 +28318,7 @@
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="04" month="4" year="2015" theme="">
+		<issue inum="04" month="04" year="2015" theme="">
 			<entry>
 				<title>ಶ್ರೀರಾಮ ಸ್ತವರಾಜ ಸ್ತೋತ್ರದಿಂದ</title>
 				<feature>ಪ್ರಾರ್ಥನೆ</feature>
@@ -28446,7 +28446,7 @@
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="05" month="5" year="2015" theme="">
+		<issue inum="05" month="05" year="2015" theme="">
 			<entry>
 				<title>ಪ್ರಾರ್ಥನೆ - ಸೂಕ್ತಿಪ್ರಭ</title>
 				<feature>ಪ್ರಾರ್ಥನೆ</feature>
@@ -28556,7 +28556,7 @@
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="06" month="6" year="2015" theme="">
+		<issue inum="06" month="06" year="2015" theme="">
 			<entry>
 				<title>ಪ್ರಾರ್ಥನೆ - ಅನ್ನಪೂರ್ಣಾಸ್ತೋತ್ರರತ್ನಮ್ ಸೂಕ್ತಿಪ್ರಭ</title>
 				<feature>ಪ್ರಾರ್ಥನೆ</feature>
@@ -28684,7 +28684,7 @@
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="07" month="7" year="2015" theme="">
+		<issue inum="07" month="07" year="2015" theme="">
 			<entry>
 				<title>ಪ್ರಾರ್ಥನೆ - ಗುರೂಪಸತ್ತಿ ಸೂಕ್ತಿಪ್ರಭ - ವೇಮನನ ಸೂಕ್ತಿಗಳು</title>
 				<feature>ಪ್ರಾರ್ಥನೆ</feature>
@@ -28794,7 +28794,7 @@
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="08" month="8" year="2015" theme="">
+		<issue inum="08" month="08" year="2015" theme="">
 			<entry>
 				<title>ಪ್ರಾರ್ಥನೆ - ದಕ್ಷಿಣೇಶ್ವರದ ದೇವಿಯನ್ನು ಕುರಿತು ಸೂಕ್ತಿಪ್ರಭ - ಕಬೀರನ ಸೂಕ್ತಿಗಳು</title>
 				<feature>ಪ್ರಾರ್ಥನೆ</feature>
@@ -28913,7 +28913,7 @@
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="09" month="9" year="2015" theme="">
+		<issue inum="09" month="09" year="2015" theme="">
 			<entry>
 				<title>ಪ್ರಾರ್ಥನೆ - ಶ್ರೀಗಣೇಶ ಪ್ರಾರ್ಥನಾ ಸೂಕ್ತಿಪ್ರಭ</title>
 				<feature>ಪ್ರಾರ್ಥನೆ</feature>
