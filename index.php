@@ -73,14 +73,14 @@
 					echo "</div>";
 			?>
 			<?php print_widget("ಶ್ರೀರಾಮಕೃಷ್ಣ ವಚನವೇದದಿಂದ",0,$volume,$issue);?>										
-			<?php print_widget("ಪುಸ್ತಕ ಪರಿಚಯ",0,$volume,$issue);?>
-			<?php print_widget("ಚಿತ್ರಕಥೆ",0,$volume,$issue);?>							
+			<?php print_widget("ಪುಸ್ತಕ ಪರಿಚಯ",0,$volume,$issue);?>							
 		</div>
 		
 		<div class="column2">
 					<?php print_widget("ಯೋಗವಾಸಿಷ್ಠದ ಕಥೆಗಳು",1,$volume,$issue);?>
 					<?php print_widget("ವಿಶೇಷ ಲೇಖನ",1,$volume,$issue);?>		
 					<?php print_widget("ಭಗವದ್ಗೀತಾ ತತ್ತ್ವ ಸೌರಭ",1,$volume,$issue);?>		
+					<?php print_widget("ಚಿತ್ರಕಥೆ",1,$volume,$issue);?>					
 		</div>
 		<div class="column3">
 			<div class="art_widget_index">
@@ -100,8 +100,8 @@
 				</div>				
 			</div>			
 			<?php print_widget("ಧಾರಾವಾಹಿ",2,$volume,$issue);?>
-			<?php print_widget("ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರ ಆದರ್ಶಗಳು",2,$volume,$issue);?>									
-			<?php print_widget("ಭಗವದ್ಗೀತೆ",2,$volume,$issue);?>									
+			<?php print_widget("ಆಧ್ಯಾತ್ಮಿಕ ಸಂಭಾಷಣೆ",2,$volume,$issue);?>									
+			<?php print_widget("ಜಪಾನಿನ ಕಥೆಗಳು",2,$volume,$issue);?>									
 		</div>
 	</div>
 	<div class="footer">
