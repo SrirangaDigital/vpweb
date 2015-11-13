@@ -73,7 +73,7 @@
 					echo "</div>";
 			?>
 			<?php print_widget("ಶ್ರೀರಾಮಕೃಷ್ಣ ವಚನವೇದದಿಂದ",0,$volume,$issue);?>										
-			<?php print_widget("ಪುಸ್ತಕ ಪರಿಚಯ",0,$volume,$issue);?>							
+			<?php print_widget("ತತ್ತ್ವ-ಜ್ಞಾನ",0,$volume,$issue);?>							
 		</div>
 		
 		<div class="column2">
@@ -101,7 +101,7 @@
 			</div>			
 			<?php print_widget("ಧಾರಾವಾಹಿ",2,$volume,$issue);?>
 			<?php print_widget("ಆಧ್ಯಾತ್ಮಿಕ ಸಂಭಾಷಣೆ",2,$volume,$issue);?>									
-			<?php print_widget("ಜಪಾನಿನ ಕಥೆಗಳು",2,$volume,$issue);?>									
+			<?php print_widget("ಹಿತನುಡಿ",2,$volume,$issue);?>									
 		</div>
 	</div>
 	<div class="footer">
