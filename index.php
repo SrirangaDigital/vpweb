@@ -72,20 +72,21 @@
 					echo "<span class=\"text\"><a href=\"Volumes/".$row2['volume']."/".$row2['issue']."/index.djvu?djvuopts&page=".$row2['page']."&zoom=page\" target=\"_blank\">ಸಂಪಾದಕೀಯ: ".$row2['title']."</a></span>";
 					echo "</div>";
 			?>
-			<?php print_widget("ಶ್ರೀರಾಮಕೃಷ್ಣ ವಚನವೇದದಿಂದ",0,$volume,$issue);?>										
-			<?php print_widget("ತತ್ತ್ವ-ಜ್ಞಾನ",0,$volume,$issue);?>							
+			<?php print_widget("ಭಗವದ್ಗೀತೆ",0,$volume,$issue);?>										
+			<?php print_widget("ಆಧ್ಯಾತ್ಮಿಕ ಸಾಧನೆ",0,$volume,$issue);?>										
+			<?php print_widget("ಪುಸ್ತಕ ಸಂಗ್ರಹ",0,$volume,$issue);?>										
 		</div>
 		
 		<div class="column2">
-					<?php print_widget("ಶ್ರೀಮಾತೆಯವರು",1,$volume,$issue);?>
+			<?php print_widget("ಶಾಸ್ತ್ರಗ್ರಂಥಗಳು",1,$volume,$issue);?>									
 		</div>
 		<div class="column3">
 			<div class="art_widget_index">
 				<div>
-					<a href="html/year.php?volume=015&year=2015" target="_blank"><img src="html/images/2014.gif" alt="cover" title="Annual Index"/></a>
+					<a href="html/year.php?volume=015&year=2015" target="_blank"><img src="html/images/2015.gif" alt="cover" title="Annual Index"/></a>
 				</div>
 				<div style="width: 50%;" class="text">
-					<span class="furtherspan"><a href="html/year.php?volume=015&year=2014" target="_blank">೨೦೧೪<br />(ಸಂಪುಟ ೧೫)<br />ವಾರ್ಷಿಕ ಅನುಕ್ರಮಣಿಕೆ</a></span><br />
+					<span class="furtherspan"><a href="html/year.php?volume=015&year=2014" target="_blank">೨೦೧೫<br />(ಸಂಪುಟ ೧೫)<br />ವಾರ್ಷಿಕ ಅನುಕ್ರಮಣಿಕೆ</a></span><br />
 				</div>
 			</div>
 			<div class="art_widget">
@@ -96,11 +97,7 @@
 					<span class="furtherspan"><a href="http://www.caminova.net/en/downloads/download.aspx?id=1" target="_blank">ಲೇಖನಗಳನ್ನು ಡೆಜವೂ (DjVu) ರೂಪದಲ್ಲಿಟ್ಟಿದೆ. ಅವುಗಳನ್ನು ನೋಡಲು ಡೆಜವೂ ಪ್ಲಗಿನ್ ಅಗತ್ಯ. ಇದು ಮುಕ್ತವಾಗಿ ಇಲ್ಲಿ ಸಿಗುತ್ತದೆ:</a></span><br />
 				</div>				
 			</div>			
-			<?php print_widget("ಧಾರಾವಾಹಿ",2,$volume,$issue);?>
-			<?php print_widget("ಆಧ್ಯಾತ್ಮಿಕ ಸಂಭಾಷಣೆ",2,$volume,$issue);?>									
-			<?php print_widget("ಯೋಗವಾಸಿಷ್ಠದ ಕಥೆಗಳು",2,$volume,$issue);?>
-			<?php print_widget("ಚಿತ್ರಕಥೆ",2,$volume,$issue);?>					
-									
+			<?php print_widget("ರಾಮಕೃಷ್ಣ - ವಿವೇಕಾನಂದ ಸಾಹಿತ್ಯ",2,$volume,$issue);?>							
 		</div>
 	</div>
 	<div class="footer">

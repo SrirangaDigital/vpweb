@@ -29292,7 +29292,7 @@
 			<entry>
 				<title>`ಶ್ರೀಮಾತೆ'ಯವರು:ಸ್ವಾಮಿ ಬ್ರಹ್ಮಾನಂದರ ದೃಷ್ಟಿಯಲ್ಲಿ</title>
 				<feature>ಶ್ರೀಮಾತೆಯವರು</feature>
-				<text>ಶ್ರೀಮಾತೆಯವರ ಬಗ್ಗೆ ಸ್ವಾಮಿ ಬ್ರಹ್ಮಾನಂದರು ಮೊದಲು</text>
+				<text>ಶ್ರೀಮಾತೆಯವರ ಬಗ್ಗೆ ಸ್ವಾಮಿ ಬ್ರಹ್ಮಾನಂದರು ಮೊದಲು ಬರೆದದ್ದು</text>
 				<page>10</page>
 				<allauthors>
 					<author salut="ಸ್ವಾಮಿ">ಪೂರ್ಣಾತ್ಮಾನಂದ</author>
@@ -29310,7 +29310,7 @@
 			<entry>
 				<title>ಮಾಯೆಯೊಳಗೆ ಮಹಾಮಾಯೆ</title>
 				<feature>ಶ್ರೀಮಾತೆಯವರು</feature>
-				<text>ಅವತಾರ ವರಿಷ್ಠರಾದ ಶ್ರೀರಾಮಕೃಷ್ಣರ ಜೀವನವು</text>
+				<text>ಅವತಾರ ವರಿಷ್ಠರಾದ ಶ್ರೀರಾಮಕೃಷ್ಣರ ಜೀವನವು ಒಂದು ವಿಶಿಷ್ಟ ರೀತಿಯಿಂದಿದ್ದರೆ</text>
 				<page>22</page>
 				<allauthors>
 					<author salut="">ಪ್ರವ್ರಾಜಿಕಾ ಧರ್ಮಪ್ರಾಣಾ</author>
@@ -29319,7 +29319,7 @@
 			<entry>
 				<title>ಒರಟ ಸಂನ್ಯಾಸಿ ಹಾಗೂ ಶ್ರೀಮಾತೆ</title>
 				<feature>ಶ್ರೀಮಾತೆಯವರು</feature>
-				<text>ಜುಲೈ ೧೯೯೨ರಲ್ಲಿ ನನಗೆ ಬೇಲೂರು ಮಠದಿಂದ ಕಾಮಾರಪುಕುರ ಹಾಗೂ</text>
+				<text>ಜುಲೈ ೧೯೯೨ರಲ್ಲಿ ನನಗೆ ಬೇಲೂರು ಮಠದಿಂದ ಕಾಮಾರಪುಕುರ ಹಾಗೂ ಜಯರಾಂಬಾಟಿಯ</text>
 				<page>25</page>
 				<allauthors>
 					<author salut="ಸ್ವಾಮಿ">ಶಾಂತಾನಂದ ಪುರಿ</author>
@@ -29370,6 +29370,181 @@
 					<author salut=""></author>
 				</allauthors>
 			</entry>
+		</issue>
+	</volume>
+	<volume vnum="017">
+		<issue inum="01" month="01" year="2016" theme="">
+			<entry>
+				<title>ಪ್ರಾರ್ಥನೆ ಮತ್ತು ಸೂಕ್ತಿಪ್ರಭ</title>
+				<feature>ಪ್ರಾರ್ಥನೆ</feature>
+				<text></text>
+				<page>3</page>
+				<allauthors>
+					<author salut=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ದಿವ್ಯ ಗ್ರಂಥಗಳ ಉಪಯುಕ್ತತೆ</title>
+				<feature>ಸಂಪಾದಕೀಯ</feature>
+				<text></text>
+				<page>5</page>
+				<allauthors>
+					<author salut=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಆಧ್ಯಾತ್ಮಿಕ ಗ್ರಂಥಗಳು ಮತ್ತು ಅಧ್ಯಾತ್ಮ (ಸಂಕಲನ)</title>
+				<feature>ಶಾಸ್ತ್ರಗ್ರಂಥಗಳು</feature>
+				<text>ಪ್ರಪಂಚದ ವಿವಿಧ ಧರ್ಮಗಳನ್ನು ನಾವು ವಿಶ್ಲೆಷಣೆ ಮಾಡಿದರೆ</text>
+				<page>7</page>
+				<allauthors>
+					<author salut="ಸ್ವಾಮಿ">ವಿವೇಕಾನಂದ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಉಪನಿಷತ್ತುಗಳಲ್ಲಿ ಆಧ್ಯಾತ್ಮಿಕ ಸಾಧನೆ</title>
+				<feature>ಆಧ್ಯಾತ್ಮಿಕ ಸಾಧನೆ</feature>
+				<text>ಮಾಹಿತಿ ಮಳೆಗರೆವ ಯುಗ, ಇಂಟರ್ನೆಟ್ಟಿನ ನಿಟ್ಟಲ್ಲೇ</text>
+				<page>9</page>
+				<allauthors>
+					<author salut="ಸ್ವಾಮಿ">ಜಪಸಿದ್ಧಾನಂದ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಭಗವದ್ಗೀತೆ:ಸಾಧಕರ ಅತ್ಯುತ್ತಮ ಕೈಪಿಡಿ</title>
+				<feature>ಭಗವದ್ಗೀತೆ</feature>
+				<text>ಈ ಶರೀರ ಇರುವುದು ಸುಖವನ್ನು ಅನುಭವಿಸಲು ಎಂಬುದು ಮಾನವನ</text>
+				<page>15</page>
+				<allauthors>
+					<author salut="ಡಾ">ಕೆ.ಎಲ್.ಪ್ರಸನ್ನಾಕ್ಷೀ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಭಾಗವತದಲ್ಲಿ ಆಧ್ಯಾತ್ಮಿಕ ಸಾಧನೆ</title>
+				<feature>ಆಧ್ಯಾತ್ಮಿಕ ಸಾಧನೆ</feature>
+				<text>ನಮ್ಮ ದೇಶದ ಧಾರ್ಮಿಕ ಸಾಹಿತ್ಯದಲ್ಲಿ ಪುರಾಣಗಳಿಗೆ ವಿಶಿಷ್ಟ ಸ್ಥಾನವಿದೆ</text>
+				<page>21</page>
+				<allauthors>
+					<author salut="ಸ್ವಾಮಿ">ವೀರೇಶಾನಂದ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಪಾತಂಜಲ ಯೋಗ ದರ್ಶನದ ಸಾಧನ ಮಾರ್ಗ</title>
+				<feature>ಶಾಸ್ತ್ರಗ್ರಂಥಗಳು</feature>
+				<text>ಪಾತಂಜಲ ಯೋಗ ಸೂತ್ರವೆಂಬುದು ಪತಂಜಲಿ ಮಹರ್ಷಿಯ ಸಮಕಾಲೀನ ಮತ್ತು ಅದಕ್ಕೂ</text>
+				<page>27</page>
+				<allauthors>
+					<author salut="ಸ್ವಾಮಿ">ಮುಕ್ತಿದಾನಂದ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ನಾರದ ಭಕ್ತಿ ಸೂತ್ರ ಮತ್ತು ಆಧ್ಯಾತ್ಮಿಕ ಸಾಧನೆ</title>
+				<feature>ಶಾಸ್ತ್ರಗ್ರಂಥಗಳು</feature>
+				<text>ಕಲಿಯುಗದಲ್ಲಿ ಆಧ್ಯಾತ್ಮಿಕ ಮಾರ್ಗದಲ್ಲಿ ಮುಂದುವರಿಯಲು ದೇವರ್ಷಿ ನಾರದರು</text>
+				<page>36</page>
+				<allauthors>
+					<author salut="ಸ್ವಾಮಿ">ಆತ್ಮವಿದಾನಂದ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಯೋಗವಾಸಿಷ್ಠದಲ್ಲಿ ಆಧ್ಯಾತ್ಮಿಕ ಚಿಂತನೆ</title>
+				<feature>ಶಾಸ್ತ್ರಗ್ರಂಥಗಳು</feature>
+				<text>ಯೋಗವಾಸಿಷ್ಠವು ಅದ್ವೈತವೇದಾಂತದ ಒಂದು ದೊಡ್ಡ ಪ್ರಕರಣ ಗ್ರಂಥ</text>
+				<page>38</page>
+				<allauthors>
+					<author salut="ಡಾ">ಟಿ.ವಿ.ಸತ್ಯನಾರಾಯಣ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ವಿವೇಕಚೂಡಾಮಣಿಯಲ್ಲಿ ಆಧ್ಯಾತ್ಮಿಕ ಸಾಧನೆ</title>
+				<feature>ಶಾಸ್ತ್ರಗ್ರಂಥಗಳು</feature>
+				<text>ಶ್ರೀಶಂಕರಾಚಾರ್ಯರದೆಂದು ಹೇಳಲಾಗಿರುವ ವಿವೇಕಚೂಡಾಮಣಿಯು</text>
+				<page>45</page>
+				<allauthors>
+					<author salut="ಸ್ವಾಮಿ">ನಿತ್ಯಸ್ಥಾನಂದ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಆಧ್ಯಾತ್ಮಿಕ ದಾಧನೆ ಮತ್ತು ವಿದ್ಯಾರಣ್ಯರ ಜೀವನ್ಮುಕ್ತಿವಿವೇಕ</title>
+				<feature>ಶಾಸ್ತ್ರಗ್ರಂಥಗಳು</feature>
+				<text>ಮಾನವಜೀವನದ ಜನ್ಮದ ಮುಖ್ಯ ಉದ್ದಿಶ್ಯವೇನು?</text>
+				<page>52</page>
+				<allauthors>
+					<author salut="ಸ್ವಾಮಿ">ಹರ್ಷಾನಂದ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶ್ರೀರಾಮಕೃಷ್ಣ ವಚನವೇದ ಆಧ್ಯಾತ್ಮಿಕ ಸಾಧನೆಯ ಮೂಲಗ್ರಂಥ</title>
+				<feature>ರಾಮಕೃಷ್ಣ - ವಿವೇಕಾನಂದ ಸಾಹಿತ್ಯ</feature>
+				<text>ಈ ಸೃಷ್ಟಿಯಲ್ಲಿ ಭಗವಂತನು ಯುಗ ಯುಗದಲ್ಲೂ ಅವತರಿಸುತ್ತಾನೆ</text>
+				<page>57</page>
+				<allauthors>
+					<author salut="ಸ್ವಾಮಿ">ಮಂಗಳನಾಥಾನಂದ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶ್ರೀಶಾರದಾದೇವಿ ವಚನವೇದದಲ್ಲಿ ಆಧ್ಯಾತ್ಮಿಕ ಸಾಧನೆ</title>
+				<feature>ರಾಮಕೃಷ್ಣ - ವಿವೇಕಾನಂದ ಸಾಹಿತ್ಯ</feature>
+				<text>ಶ್ರೀಮಾತೆಯವರ ಉಕ್ತಿಸಂಕಲನ `ಶ್ರೀಶ್ರೀಮಾಯೇರ್ ಕಥಾ'</text>
+				<page>61</page>
+				<allauthors>
+					<author salut="ಸ್ವಾಮಿ">ಶಿವಾಕಾಂತಾನಂದ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರ ಕೃತಿಶ್ರೇಣಿ</title>
+				<feature>ಪುಸ್ತಕ ಸಂಗ್ರಹ</feature>
+				<text>ಒಮ್ಮೆ ಶ್ರೀರಾಮಕೃಷ್ಣರು ಒಂದು ಹಾಳೆಯಲ್ಲಿ ನರೇಂದ್ರನು</text>
+				<page>69</page>
+				<allauthors>
+					<author salut="ಸ್ವಾಮಿ">ಕರುಣಾಕರಾನಂದ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಬ್ರಹ್ಮಾನಂದ ವಚನಸುಧೆ</title>
+				<feature>ರಾಮಕೃಷ್ಣ - ವಿವೇಕಾನಂದ ಸಾಹಿತ್ಯ</feature>
+				<text>ಶ್ರೀರಾಮಕೃಷ್ಣ ಪರಮಹಂಸರ ನೇರ ಶಿಷ್ಯರಲ್ಲಿ ಸ್ವಾಮಿಬ್ರಹ್ಮಾನಂದರಿಗೆ</text>
+				<page>74</page>
+				<allauthors>
+					<author salut="ಡಾ">ಕೆ.ಅನಂತರಾಮು</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಸಾಧನೆಯ ಮಾರ್ಗದರ್ಶಿ:ಗುರುವಿನೊಡನೆ ದೇವರಡಿಗೆ</title>
+				<feature>ರಾಮಕೃಷ್ಣ - ವಿವೇಕಾನಂದ ಸಾಹಿತ್ಯ</feature>
+				<text>ಶ್ರೀರಾಮಕೃಷ್ಣರ ಆಪೂರ್ವ ತಪೋಮಯ ಜೀವನವೃಕ್ಷವು</text>
+				<page>80</page>
+				<allauthors>
+					<author salut="">ಮಾತಾ ತ್ಯಾಗಮಯೀ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಪರಮಾರ್ಥ ಪ್ರಸಂಗ</title>
+				<feature>ರಾಮಕೃಷ್ಣ - ವಿವೇಕಾನಂದ ಸಾಹಿತ್ಯ</feature>
+				<text>ಈ ಗ್ರಥವೊಂದು ಭಗವತ್ಸಾಕ್ಷಾತ್ಕಾರಕ್ಕೆ ಸಾಧಕನಿಕೆ ಒಂದು ಕೈದೀವಿಗೆಯಂತೆ</text>
+				<page>85</page>
+				<allauthors>
+					<author salut="ಸ್ವಾಮಿ">ರಾಘವೇಶಾನಂದ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಸಾಧಕನ ಕೈದೀವಿಗೆ</title>
+				<feature>ರಾಮಕೃಷ್ಣ - ವಿವೇಕಾನಂದ ಸಾಹಿತ್ಯ</feature>
+				<text>ಆಧ್ಯಾತ್ಮಿಕ ಸಾಧಕನಿಗೆ ತನ್ನ ಸಾಧನೆಯ ಮಾರ್ಗದಲ್ಲಿ ಬರುವ ತೊಡಕುಗಳನ್ನು ಎದುರಿಸಲು</text>
+				<page>89</page>
+				<allauthors>
+					<author salut="ಸ್ವಾಮಿ">ರಘುವೀರಾನಂದ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಧ್ಯಾನ ಮತ್ತು ಆಧ್ಯಾತ್ಮಿಕ ಜೀವನ</title>
+				<feature>ರಾಮಕೃಷ್ಣ - ವಿವೇಕಾನಂದ ಸಾಹಿತ್ಯ</feature>
+				<text>ನಾವು ಒಂದು ಬೆಲೆಬಾಳುವ ಇಲೆಕ್ಟ್ರಾನಿಕ್ ಯಂತ್ರವನ್ನು ಖರೀದಿಸಿ ಮನೆಗೆ</text>
+				<page>93</page>
+				<allauthors>
+					<author salut="ಸ್ವಾಮಿ">ಜ್ಞಾನಸುಧಾನಂದ</author>
+				</allauthors>
+			</entry>							
 		</issue>
 	</volume>
 </vp>
