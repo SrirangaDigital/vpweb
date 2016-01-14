@@ -83,10 +83,10 @@
 		<div class="column3">
 			<div class="art_widget_index">
 				<div>
-					<a href="html/year.php?volume=015&year=2015" target="_blank"><img src="html/images/2015.gif" alt="cover" title="Annual Index"/></a>
+					<a href="html/year.php?volume=016&year=2015" target="_blank"><img src="html/images/2015.gif" alt="cover" title="Annual Index"/></a>
 				</div>
 				<div style="width: 50%;" class="text">
-					<span class="furtherspan"><a href="html/year.php?volume=015&year=2014" target="_blank">೨೦೧೫<br />(ಸಂಪುಟ ೧೫)<br />ವಾರ್ಷಿಕ ಅನುಕ್ರಮಣಿಕೆ</a></span><br />
+					<span class="furtherspan"><a href="html/year.php?volume=016&year=2015" target="_blank">೨೦೧೫<br />(ಸಂಪುಟ ೧೫)<br />ವಾರ್ಷಿಕ ಅನುಕ್ರಮಣಿಕೆ</a></span><br />
 				</div>
 			</div>
 			<div class="art_widget">
