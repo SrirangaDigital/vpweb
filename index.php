@@ -79,7 +79,6 @@
 		<div class="column2">
 			<?php print_widget("ಶ್ರೀರಾಮಕೃಷ್ಣ ವಚನವೇದದಿಂದ",1,$volume,$issue);?>									
 			<?php print_widget("ವಿಶೇಷ ಲೇಖನ",1,$volume,$issue);?>									
-			<?php print_widget("ಸಂತರ ಜೀವನ ಕಥೆ",1,$volume,$issue);?>									
 		</div>
 		<div class="column3">
 			<div class="art_widget_index">
@@ -98,8 +97,9 @@
 					<span class="furtherspan"><a href="http://www.caminova.net/en/downloads/download.aspx?id=1" target="_blank">ಲೇಖನಗಳನ್ನು ಡೆಜವೂ (DjVu) ರೂಪದಲ್ಲಿಟ್ಟಿದೆ. ಅವುಗಳನ್ನು ನೋಡಲು ಡೆಜವೂ ಪ್ಲಗಿನ್ ಅಗತ್ಯ. ಇದು ಮುಕ್ತವಾಗಿ ಇಲ್ಲಿ ಸಿಗುತ್ತದೆ:</a></span><br />
 				</div>				
 			</div>			
-			<?php print_widget("ಧಾರಾವಾಹಿ",2,$volume,$issue);?>							
-			<?php print_widget("ಭಗವದ್ಗೀತಾ ತತ್ತ್ವ ಸೌರಭ",2,$volume,$issue);?>							
+			<?php print_widget("ಧಾರಾವಾಹಿ",2,$volume,$issue);?>									
+			<?php print_widget("ಸಂತರ ಜೀವನ ಕಥೆ",2,$volume,$issue);?>							
+			<?php print_widget("ಜಪಾನಿನ ಕಥೆಗಳು",2,$volume,$issue);?>							
 		</div>
 	</div>
 	<div class="footer">
