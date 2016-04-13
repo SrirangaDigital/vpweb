@@ -29759,8 +29759,109 @@
 			<entry>
 				<title>ಪುಷ್ಪದಂತ ಮಹರ್ಷಿ</title>
 				<feature>ಚಿತ್ರಕಥೆ</feature>
-				<text>ಭಗವಾನ್! ದಯವಿಟ್ಟು ನಮ್ಮನ್ನು ತೀರ್ಥಗಿರಿಗೆ ಕರೆದುಕೊಂಡು ಹೋಗಿ</text>
+				<text></text>
 				<page>36</page>
+				<allauthors>
+					<author salut=""></author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="04" month="04" year="2016" theme="">
+			<entry>
+				<title>ಪ್ರಾರ್ಥನೆ ಸೂಕ್ತಿಪ್ರಭ: ಶ್ರೀ ಪಾಂಡುರಂಗಾಷ್ಟಕಮ್</title>
+				<feature>ಪ್ರಾರ್ಥನೆ</feature>
+				<text></text>
+				<page>2</page>
+				<allauthors>
+					<author salut=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಸ್ಥಿ ತ್ಯಂತರಗಳು</title>
+				<feature>ಸಂಪಾದಕೀಯ</feature>
+				<text></text>
+				<page>5</page>
+				<allauthors>
+					<author salut=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಹಾಡು ಚಾಗಿಯ ಹಾಡನು</title>
+				<feature>ಪುಸ್ತಕ ಪರಿಚಯ</feature>
+				<text>ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರು ಆಧುನಿಕ ಭಾರತದ ಅರುಣೋದಯದಲ್ಲಿ ಉದಯಿಸಿ</text>
+				<page>21</page>
+				<allauthors>
+					<author salut=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ದಯೆ</title>
+				<feature>ಶ್ರೀರಾಮಕೃಷ್ಣ ವಚನವೇದದಿಂದ</feature>
+				<text>ದಯೆ ಮತ್ತು ಮಾಯೆ ಇವೆರಡೂ ಬೇರೆ ಬೇರೆ ಮಾಯೆ ಎಂದರೆ</text>
+				<page>22</page>
+				<allauthors>
+					<author salut=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಸುದ್ದಿ ಸಂಚಯ</title>
+				<feature></feature>
+				<text></text>
+				<page>39</page>
+				<allauthors>
+					<author salut=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ದೇವರನ್ನು ಕಾಣಬಹುದೆ?</title>
+				<feature>ವಿಶೇಷ ಲೇಖನ</feature>
+				<text>ಇದು ಗುರುರಾಜ ಕರ್ಜಗಿಯವರು ಬೆಳಗಾವಿಯಲ್ಲಿ ವಿದ್ಯಾರ್ಥಿಗಳ</text>
+				<page>9</page>
+				<allauthors>
+					<author salut="ಸ್ವಾಮಿ">ರಾಘವೇಶಾನಂದ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶಿಕ್ಷಣ, ಶಿಕ್ಷಕರು ಮತ್ತು ಪೋಷಕರು</title>
+				<feature>ವಿಶೇಷ ಲೇಖನ</feature>
+				<text>ಸ್ವಾತಂತ್ರ್ಯ ಪೂರ್ವದ ಭಾರತದಲ್ಲಿ ಶಿಕ್ಷಣ ಎಲ್ಲರಿಗೂ ದೊರೆಯುತ್ತಿರಲಿಲ್ಲ</text>
+				<page>11</page>
+				<allauthors>
+					<author salut="ಡಾ">ವಸಂತ ಕುಮಾರ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಅಸಿಸ್ಸಿಯ ಸಂತ ಫ್ರಾನ್ಸಿ ಸ್</title>
+				<feature>ಸಂತರ ಜೀವನ ಕಥೆ</feature>
+				<text>ಇಟೆಲಿಯ ಒಬ್ಬ ಸಂತನು ಗುಬ್ಬಿಯೊ ಎಂಬ ನಗರಕ್ಕೆ ಹೋದನು</text>
+				<page>30</page>
+				<allauthors>
+					<author salut="ಸ್ವಾಮಿ">ವೀರೇಶಾನಂದ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಸ್ವಾಮಿ ಅಖಂಡಾನಂದರ ಸ್ಮೃತಿಸಂಚಯ - ಭಾಗ ೧೭</title>
+				<feature>ಧಾರಾವಾಹಿ</feature>
+				<text>ಸ್ವಾಮಿ ಅಖಂಡಾನಂದರು ಬರೆಯುತ್ತಿದ್ದ ಸೇವಕನಿಗೆ ಹೇಳುತ್ತಿದ್ದಾರೆ</text>
+				<page>17</page>
+				<allauthors>
+					<author salut="ಸ್ವಾಮಿ">ನಿರಾಮಯಾನಂದ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಪಂಚಕೇದಾರ ಯಾತ್ರೆ - ೧</title>
+				<feature>ಪ್ರವಾಸ ಲೇಖನ</feature>
+				<text>೨೦೧೦ನೇ ಇಸವಿಯ ಜೂನ್ ಒಂದರಂದು ನಾನು ಮತ್ತು ಸ್ವಾಮಿ ಕರುಣಾಕರಾನಂದರು ಬೆಂಗಳೂರಿನಿಂದ</text>
+				<page>23</page>
+				<allauthors>
+					<author salut="ಸ್ವಾಮಿ ">ಜ್ಞಾನಯೋಗಾನಂದ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ದೇವರಿಗೆ ಪತ್ರ ಬರೆದ ಭಕ್ತ</title>
+				<feature>ಚಿತ್ರಕಥೆ</feature>
+				<text>ನರಸಿಂಹ ಮೆಹತಾ (ಅಥವಾ ನರಸೀ ಮೆಹತಾ)  ಶ್ರೀಕೃಷ್ಣನ ದೊಡ್ಡ ಭಕ್ತನಾಗಿದ್ದ</text>
+				<page>34</page>
 				<allauthors>
 					<author salut=""></author>
 				</allauthors>
