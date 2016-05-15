@@ -98,7 +98,7 @@
 					<span class="furtherspan"><a href="http://www.caminova.net/en/downloads/download.aspx?id=1" target="_blank">ಲೇಖನಗಳನ್ನು ಡೆಜವೂ (DjVu) ರೂಪದಲ್ಲಿಟ್ಟಿದೆ. ಅವುಗಳನ್ನು ನೋಡಲು ಡೆಜವೂ ಪ್ಲಗಿನ್ ಅಗತ್ಯ. ಇದು ಮುಕ್ತವಾಗಿ ಇಲ್ಲಿ ಸಿಗುತ್ತದೆ:</a></span><br />
 				</div>				
 			</div>			
-			<?php print_widget("ಧಾರಾವಾಹಿ",2,$volume,$issue);?>									
+			<?php print_widget("ಭಗವದ್ಗೀತಾ ತತ್ತ್ವ ಸೌರಭ",2,$volume,$issue);?>									
 			<?php print_widget("ಸಂತರ ಜೀವನ ಕಥೆ",2,$volume,$issue);?>							
 		</div>
 	</div>
