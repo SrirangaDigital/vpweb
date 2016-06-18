@@ -72,7 +72,6 @@
 					echo "<span class=\"text\"><a href=\"Volumes/".$row2['volume']."/".$row2['issue']."/index.djvu?djvuopts&page=".$row2['page']."&zoom=page\" target=\"_blank\">ಸಂಪಾದಕೀಯ: ".$row2['title']."</a></span>";
 					echo "</div>";
 			?>
-			<?php print_widget("ಪುಸ್ತಕ ಪರಿಚಯ",0,$volume,$issue);?>										
 			<?php print_widget("ಚಿತ್ರಕಥೆ",0,$volume,$issue);?>										
 		</div>
 		
