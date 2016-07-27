@@ -73,6 +73,7 @@
 					echo "</div>";
 			?>
 			<?php print_widget("ಚಿತ್ರಕಥೆ",0,$volume,$issue);?>										
+			<?php print_widget("ಪುಸ್ತಕ ಪರಿಚಯ",0,$volume,$issue);?>										
 		</div>
 		
 		<div class="column2">
@@ -99,6 +100,7 @@
 			</div>			
 			<?php print_widget("ಭಗವದ್ಗೀತಾ ತತ್ತ್ವ ಸೌರಭ",2,$volume,$issue);?>									
 			<?php print_widget("ಸಂತರ ಜೀವನ ಕಥೆ",2,$volume,$issue);?>							
+			<?php print_widget("ಲೇಖನ",2,$volume,$issue);?>							
 		</div>
 	</div>
 	<div class="footer">
