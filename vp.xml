@@ -30345,15 +30345,6 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>ಯುವಚೇತನ</title>
-				<feature>ಯುವಚೇತನ</feature>
-				<text>ಎಲ್ಲಾ ಮೂಢನಂಬಿಕೆಗಳನ್ನೂ ಕಿತ್ತೊಗೆದು, ನಾನೇ ಅವ್ಯಕ್ತ ಬ್ರಹ್ಮನೆಂದು ನಿರ್ಭೀತಿಯಿಂದ ನಿಂತರೆ,</text>
-				<page>17</page>
-				<allauthors>
-					<author salut=""></author>
-				</allauthors>
-			</entry>
-			<entry>
 				<title>ಅನಾರೋಗ್ಯದ ಆಸರೆ!</title>
 				<feature>ವಿಶೇಷ ಲೇಖನ</feature>
 				<text>ನಾವೆಲ್ಲರೂ ಆರೋಗ್ಯ ಪೂರ್ಣ ಜೀವನವನ್ನು ಇಷ್ಟಪಡುತ್ತೇವೆ</text>
@@ -30384,6 +30375,107 @@
 				<title>ಸೋದರಿ ನಿವೇದಿತಾ</title>
 				<feature>ಚಿತ್ರಕಥೆ</feature>
 				<text>ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರ ವಿದೇಶೀ ಶಿಷ್ಯರುಗಳಲ್ಲಿ ಶ್ರೇಷ್ಠರಾದವರೇ ಸೋದರಿ ವಿವೇದಿತಾ</text>
+				<page>36</page>
+				<allauthors>
+					<author salut=""></author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="10" month="10" year="2016" theme="">
+			<entry>
+				<title>ಪ್ರಾರ್ಥನೆ: ಶ್ರೀಗೋವಿಂದಾಷ್ಟಕಮ್ - 3</title>
+				<feature>ಪ್ರಾರ್ಥನೆ</feature>
+				<text></text>
+				<page>2</page>
+				<allauthors>
+					<author salut=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಎರಡು ಜಾಗತಿಕ ಚಲನೆಗಳು</title>
+				<feature>ಸಂಪಾದಕೀಯ</feature>
+				<text></text>
+				<page>5</page>
+				<allauthors>
+					<author salut=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ನಿರ್ಲಿಪ್ತತೆ</title>
+				<feature>ಶ್ರೀರಾಮಕೃಷ್ಣ ವಚನವೇದದಿಂದ</feature>
+				<text>ಸಂಸಾರದಲ್ಲಿ ನಿರ್ಲಿಪ್ತತೆಯಿಂದ ಇರಬೇಕಾದರೆ ಕಿಂಚಿತ್ ಸಾಧನೆಯನ್ನು</text>
+				<page>7</page>
+				<allauthors>
+					<author salut=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಸುದ್ದಿಸಂಚಯ</title>
+				<feature></feature>
+				<text></text>
+				<page>40</page>
+				<allauthors>
+					<author salut=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ರಾಮನಾಥಪುರಂ ಆಶ್ರಮ - ಒಂದು ಪಕ್ಷಿನೋಟ</title>
+				<feature>ವಿಶೇಷ ಲೇಖನ</feature>
+				<text>ಸೇತುಪತಿ ರಾಜವಂಶಸ್ಥರು ರಾಮನಾಥಪುರವನ್ನು ಅನಾದಿಕಾಲದಿಂದ ಆಳುತ್ತ</text>
+				<page>8</page>
+				<allauthors>
+					<author salut="ಸ್ವಾಮಿ">ಅಭಿರಾಮಾನಂದ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಪೊಳಲಿ ಶ್ರೀ ರಾಜರಾಜೇಶ್ವರಿ ದೇವಿ</title>
+				<feature>ವಿಶೇಷ ಲೇಖನ</feature>
+				<text>ಪ್ರಪಂಚದ ಪ್ರಾಚೀನ ನಾಗರಿಕತೆಗಳು ನದೀತೀರಗಳಲ್ಲಿ ಹುಟ್ಟಿ </text>
+				<page>15</page>
+				<allauthors>
+					<author salut="">ಸೇವಂತಿ ಡಿ. ರೈ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಸೇಮೆಯ ದಿಗಂತದತ್ತ  ಶ್ರೀಶಾರದಾ ಮಠದ ಮತ್ತೊಂದು ಹೆಜ್ಜೆ </title>
+				<feature>ವಿಶೇಷ ಲೇಖನ</feature>
+				<text>ಪರಿವ್ರಾಜಕರಾಗಿ ದೇಶದ ಉದ್ದಗಲಕ್ಕೂ ಸಂಚಸಿದ ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರು</text>
+				<page>19</page>
+				<allauthors>
+					<author salut="">ಸ್ವರ್ಣಗೌರಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ನವದುರ್ಗೆಯರು</title>
+				<feature>ವಿಶೇಷ ಲೇಖನ</feature>
+				<text>ಭಾರತದ ಪ್ರಸಿದ್ಧ ಉತ್ಸವ, ಆಚರಣೆಗಳಲ್ಲಿ ನವರಾತ್ರಿ ಅಥವಾ ದಸರಾ</text>
+				<page>23</page>
+				<allauthors>
+					<author salut="ಡಾ">ವಿ. ಶ್ರೀಮತಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಇಂದಿನ ಶೈಕ್ಷಣಿಕ ಸನ್ನಿವೇಶದಲ್ಲಿ ವಿದ್ಯಾರ್ಥಿಯ ಮುಂದಿರುವ ಸವಾಲುಗಳು</title>
+				<feature>ವಿಶೇಷ ಲೇಖನ</feature>
+				<text>ಸಮಕಾಲೀನ ಶೈಕ್ಷಣಿಕ ಸನ್ನಿವೇಶದ ಸ್ವರೂಪ ಅತ್ಯಂತ ಸಂಕೀರ್ಣವಾಗುತ್ತಿರುವುದನ್ನು</text>
+				<page>29</page>
+				<allauthors>
+					<author salut="ಡಾ">ಹೆಚ್. ಎನ್. ಮುರಳೀಧರ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ರಾಮಕಿಂಕರ ಭದ್ರಾಚಲ ರಾಮದಾಸ</title>
+				<feature>ಸಂತರ ಜೀವನ ಕಥೆ</feature>
+				<text>ಆಂಧ್ರ ಪ್ರದೇಶದಲ್ಲಿ ಒಂದು ಹಳ್ಳಿ. ಅದರ ಹೆಸರು ನೆಲಕೊಂಡ ಪಲ್ಲಿ</text>
+				<page>32</page>
+				<allauthors>
+					<author salut="ಸ್ವಾಮಿ">ವೀರೇಶಾನಂದ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಸೋದರಿ ನಿವೇದಿತಾ ಭಾಗ-2</title>
+				<feature>ಚಿತ್ರಕಥೆ</feature>
+				<text>ಶಾಲೆಯಲ್ಲಿದ್ದಾಗಲೇ ಅವಳು ನಾಯಕತ್ವದ ಲಕ್ಷಣಗಳನ್ನು ವ್ಯಕ್ತಪಡಿಸುತ್ತಿದ್ದಳು</text>
 				<page>36</page>
 				<allauthors>
 					<author salut=""></author>
