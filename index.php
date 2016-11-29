@@ -77,6 +77,7 @@
 		
 		<div class="column2">
 			<?php print_widget("ವಿಶೇಷ ಲೇಖನ",1,$volume,$issue);?>									
+			<?php print_widget("ಜಪಾನಿನ ಕಥೆಗಳು",1,$volume,$issue);?>									
 		</div>
 		<div class="column3">
 			<div class="art_widget_index">
@@ -97,6 +98,7 @@
 			</div>			
 			<?php print_widget("ಶ್ರೀರಾಮಕೃಷ್ಣ ವಚನವೇದದಿಂದ",2,$volume,$issue);?>									
 			<?php print_widget("ಸಂತರ ಜೀವನ ಕಥೆ",2,$volume,$issue);?>							
+			<?php print_widget("ಪುಸ್ತಕ ಪರಿಚಯ",2,$volume,$issue);?>							
 		</div>
 	</div>
 	<div class="footer">
