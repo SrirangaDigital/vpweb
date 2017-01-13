@@ -43,6 +43,10 @@ sub insert_author
 {
 
 	my($author, $salutation) = @_;
+
+	$author =~ s/'/\\'/g;
+	$author =~ s/`/\\`/g;
+
 	
 	$sth=$dbh->prepare("select authid from author where	authorname='$author' and salutation='$salutation'");
 	$sth->execute() or die $DBI::errstr;

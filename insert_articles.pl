@@ -75,6 +75,9 @@ sub insert_list
 	$title =~ s/'/\\'/g;
 	$title =~ s/`/\\`/g;
 	
+	$author =~ s/'/\\'/g;
+	$author =~ s/`/\\`/g;	
+	
 	$text =~ s/'/\\'/g;
 	$text =~ s/`/\\`/g;
 
