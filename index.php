@@ -72,13 +72,12 @@
 					echo "<span class=\"text\"><a href=\"Volumes/".$row2['volume']."/".$row2['issue']."/index.djvu?djvuopts&page=".$row2['page']."&zoom=page\" target=\"_blank\">ಸಂಪಾದಕೀಯ: ".$row2['title']."</a></span>";
 					echo "</div>";
 			?>
-<!--
 			<?php print_widget("ಚಿತ್ರಕಥೆ",0,$volume,$issue);?>										
--->
 		</div>
 		
 		<div class="column2">
-			<?php print_widget("ಜೀವನ ಮತ್ತು ಸಾಧನೆ",1,$volume,$issue);?>									
+			<?php print_widget("ವಿಶೇಷ ಲೇಖನ",1,$volume,$issue);?>									
+			<?php print_widget("ಪುಸ್ತಕ ಪರಿಚಯ",1,$volume,$issue);?>							
 		</div>
 		<div class="column3">
 			<div class="art_widget_index">
@@ -97,7 +96,7 @@
 					<span class="furtherspan"><a href="http://www.caminova.net/en/downloads/download.aspx?id=1" target="_blank">ಲೇಖನಗಳನ್ನು ಡೆಜವೂ (DjVu) ರೂಪದಲ್ಲಿಟ್ಟಿದೆ. ಅವುಗಳನ್ನು ನೋಡಲು ಡೆಜವೂ ಪ್ಲಗಿನ್ ಅಗತ್ಯ. ಇದು ಮುಕ್ತವಾಗಿ ಇಲ್ಲಿ ಸಿಗುತ್ತದೆ:</a></span><br />
 				</div>				
 			</div>			
-			<?php print_widget("ನಿವೇದಿತಾ‌ ಕೃತಿಗಳು",2,$volume,$issue);?>							
+			<?php print_widget("ಧಾರಾವಾಹಿ",2,$volume,$issue);?>							
 		</div>
 	</div>
 	<div class="footer">
