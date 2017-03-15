@@ -1,0 +1,16 @@
+<!ELEMENT vp (volume*)>
+<!ELEMENT volume (issue*)>
+<!ATTLIST volume vnum CDATA #REQUIRED>
+<!ELEMENT issue (entry+)>
+<!ATTLIST issue inum CDATA #REQUIRED>
+<!ATTLIST issue month CDATA #REQUIRED>
+<!ATTLIST issue year CDATA #REQUIRED>
+<!ATTLIST issue theme CDATA #REQUIRED>
+<!ELEMENT entry (title,feature,text,page,allauthors)>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT feature (#PCDATA)>
+<!ELEMENT text (#PCDATA)>
+<!ELEMENT page (#PCDATA)>
+<!ELEMENT allauthors (author*)>
+<!ELEMENT author (#PCDATA)>
+<!ATTLIST author salut CDATA #REQUIRED>
