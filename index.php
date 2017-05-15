@@ -150,7 +150,7 @@
 				$author=$row1['authorname'];
 				
 				echo "<div>";
-				echo "<img id=\"art_widget_img\" src=\"Volumes/".$row['volume']."/".$row['issue']."/images/".$row['page'].".png\" alt=\"cover\"/>";
+				echo "<img class=\"art_widget_img\" src=\"Volumes/".$row['volume']."/".$row['issue']."/images/".$row['page'].".png\" alt=\"cover\"/>";
 				echo "</div>";
 				echo "<div style=\"width: 50%;\" class=\"text\">";
 				echo "<span class=\"titlespan\"><a href=\"Volumes/".$row['volume']."/".$row['issue']."/index.djvu?djvuopts&page=".$row['page']."&zoom=page\" target=\"_blank\">".$row['title']."</a></span><br />";
