@@ -59,10 +59,6 @@
 
 
 include("connect.php");
-
-$db = mysql_connect($host,$user,$password) or die("Not connected to database");
-$rs = mysql_select_db($database,$db) or die("No Database");
-
 $volume = $_GET['volume'];
 $year = $_GET['year'];
 
@@ -70,16 +66,16 @@ echo "<div class=\"archive_title\">ಸಂಪುಟ <span class=\"eng\">($volume)
 		<div class=\"scroll\">";
 			
 $query = "select distinct issue, month from article where volume='$volume' order by issue";
-$result = mysql_query($query);
-$num_rows = mysql_num_rows($result);
+$result = $mysqli->query($query);
+$num_rows = $result->num_rows;
 
 if($num_rows)
 {
 	for($i=1;$i<=$num_rows;$i++)
 	{
-		$row=mysql_fetch_assoc($result);
-		$issue=$row['issue'];
-		$month=$row['month'];		
+		$row = $result->fetch_assoc();
+		$issue = $row['issue'];
+		$month = $row['month'];		
 		echo "<div class=\"month_container\"><span class=\"monthspan\"><a href=\"toc.php?volume=$volume&issue=$issue&year=$year&month=$month\">".$nom[$month-1]."</a></span></div>";	
 	}
 }

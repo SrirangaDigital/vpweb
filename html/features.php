@@ -63,19 +63,15 @@
 
 
 include("connect.php");
-
-$db = mysql_connect($host,$user,$password) or die("Not connected to database");
-$rs = mysql_select_db($database,$db) or die("No Database");
-mysql_set_charset("utf8",$db);
 $query1 = "select distinct feature from article order by feature";
-$result1 = mysql_query($query1);
-$num_rows1 = mysql_num_rows($result1);
+$result1 = $mysqli->query($query1);
+$num_rows1 = $result1->num_rows;
 
 if($num_rows1)
 {
 	for($i1=1;$i1<=$num_rows1;$i1++)
 	{	
-		$row1=mysql_fetch_assoc($result1);
+		$row1 = $result1->fetch_assoc();
 		$feature=$row1['feature'];
 		$feature1=preg_replace("/ /","%20",$feature);
 		

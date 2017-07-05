@@ -60,11 +60,6 @@
 
 
 include("connect.php");
-
-$db = mysql_connect($host,$user,$password) or die("Not connected to database");
-$rs = mysql_select_db($database,$db) or die("No Database");
-mysql_set_charset("utf8",$db);
-
 $feature = $_GET['feature'];
 
 echo "<div class=\"archive_title\">$feature</div>";
@@ -72,29 +67,29 @@ echo "<div class=\"scroll\">";
 echo "<ul>";
 
 $query1 = "select * from article where feature='$feature' order by volume, issue, page, title";
-$result1 = mysql_query($query1);
-$num_rows1 = mysql_num_rows($result1);
+$result1 = $mysqli->query($query1);
+$num_rows1 = $result1->num_rows;
 
 if($num_rows1)
 {
 	for($i1=1;$i1<=$num_rows1;$i1++)
 	{	
-		$row1=mysql_fetch_assoc($result1);
-		$title=$row1['title'];
-		$authid=$row1['authid'];
-		$volume=$row1['volume'];
-		$year=$row1['year'];
-		$month=$row1['month'];
-		$issue=$row1['issue'];
-		$page=$row1['page'];
+		$row1 = $result1->fetch_assoc();
+		$title = $row1['title'];
+		$authid = $row1['authid'];
+		$volume = $row1['volume'];
+		$year = $row1['year'];
+		$month = $row1['month'];
+		$issue = $row1['issue'];
+		$page = $row1['page'];
 		
 		echo "<li><span class=\"titlespan\"><a href=\"../Volumes/$volume/$issue/index.djvu?djvuopts&page=$page&zoom=page\" target=\"_blank\">" . $title . "</a></span>";
 		
 		if($authid != 0)
 		{
 			$query2 = "select * from author where authid=$authid";
-			$result2 = mysql_query($query2);
-			$row2=mysql_fetch_assoc($result2);
+			$result2 = $mysqli->query($query2);
+			$row2=$result2->fetch_assoc();
 			
 			$authorname=$row2['authorname'];
 			$salutation=$row2['salutation'];
