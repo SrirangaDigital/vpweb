@@ -5,6 +5,7 @@
 <title>Viveka Prabha</title>
 <link href="style/reset.css" rel="stylesheet"/>
 <link href="style/archivestyle.css" rel="stylesheet"/>
+<link rel="icon" type="image/png" href="images/favicon.png">
 </head>
 
 <body>
