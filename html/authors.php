@@ -5,6 +5,7 @@
 <title>Viveka Prabha</title>
 <link href="style/reset.css" rel="stylesheet"/>
 <link href="style/archivestyle.css" rel="stylesheet"/>
+<link rel="icon" type="image/png" href="images/favicon.png">
 </head>
 <?php
 	isset($_GET['author'])? $akey = $_GET['author']: $akey = "";
@@ -95,22 +96,19 @@
 				
 <?php
 		include("connect.php");
-		$db = mysql_connect($host,$user,$password) or die("Not connected to database");
-		$rs = mysql_select_db($database,$db) or die("No Database");
-		mysql_set_charset("utf8",$db);
 
 		$akey != "" ? $query = "select * from author where authorname like '$akey%' order by authorname": $query = "select * from author order by authorname";
-		$result = mysql_query($query);
-		$num_rows = mysql_num_rows($result);
+		$result = $mysqli->query($query);
+		$num_rows = $result->num_rows;
 		
 		if($num_rows)
 		{
 			for($i=0;$i<$num_rows;$i++)
 			{	
-				$row=mysql_fetch_assoc($result);
-				$authorname=$row['authorname'];
-				$salutation=$row['salutation'];
-				$authid=$row['authid'];
+				$row = $result->fetch_assoc();
+				$authorname = $row['authorname'];
+				$salutation = $row['salutation'];
+				$authid = $row['authid'];
 				
 				if($salutation == '')
 				{

@@ -5,6 +5,7 @@
 <title>Viveka Prabha</title>
 <link href="style/reset.css" rel="stylesheet"/>
 <link href="style/archivestyle.css" rel="stylesheet"/>
+<link rel="icon" type="image/png" href="images/favicon.png">
 </head>
 <?php
 	isset($_GET['article']) ? $article = $_GET['article'] : $article = "";
@@ -103,34 +104,30 @@
 	<?php
 		include("connect.php");
 		
-		$db = mysql_connect($host,$user,$password) or die("Not connected to database");
-		$rs = mysql_select_db($database,$db) or die("No Database");
-		mysql_set_charset("utf8",$db);
-		
 		$article!="" ? $query = "select * from article where title like '$article%' order by title, volume, issue, page": $query = "select * from article order by title, volume, issue, page";
-		$result = mysql_query($query);
-		$num_rows = mysql_num_rows($result);
+		$result = $mysqli->query($query);
+		$num_rows = $result->num_rows;
 				
 		if($num_rows)
 		{
 			for($i=1;$i<=$num_rows;$i++)
 			{	
-				$row=mysql_fetch_assoc($result);
-				$title=$row['title'];
-				$feature=$row['feature'];
-				$authid=$row['authid'];
-				$volume=$row['volume'];
-				$year=$row['year'];
-				$month=$row['month'];
-				$issue=$row['issue'];
-				$page=$row['page'];
+				$row = $result->fetch_assoc();
+				$title = $row['title'];
+				$feature = $row['feature'];
+				$authid = $row['authid'];
+				$volume = $row['volume'];
+				$year = $row['year'];
+				$month = $row['month'];
+				$issue = $row['issue'];
+				$page = $row['page'];
 				echo "<li><span class=\"titlespan\"><a href=\"../Volumes/$volume/$issue/index.djvu?djvuopts&page=$page&zoom=page\" target=\"_blank\">" . $title . "</a></span>";
 						
 				if($authid != 0)
 				{
 					$query2 = "select * from author where authid=$authid";
-					$result2 = mysql_query($query2);
-					$row2=mysql_fetch_assoc($result2);
+					$result2 = $mysqli->query($query2);
+					$row2 = $result2->fetch_assoc();
 					
 					$authorname=$row2['authorname'];
 					$salutation=$row2['salutation'];

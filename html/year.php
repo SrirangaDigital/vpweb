@@ -5,6 +5,7 @@
 <title>Viveka Prabha</title>
 <link href="style/reset.css" rel="stylesheet"/>
 <link href="style/archivestyle.css" rel="stylesheet"/>
+<link rel="icon" type="image/png" href="images/favicon.png">
 </head>
 
 <body>
@@ -60,10 +61,6 @@
 
 
 include("connect.php");
-
-$db = mysql_connect($host,$user,$password) or die("Not connected to database");
-$rs = mysql_select_db($database,$db) or die("No Database");
-		mysql_set_charset("utf8",$db);
 $volume = $_GET['volume'];
 $year = $_GET['year'];
 
@@ -71,39 +68,39 @@ echo "<div class=\"archive_title\">ಸಂಪುಟ <span class=\"eng\">(".intval
 echo "<div class=\"scroll\">";
 				
 $query = "select distinct issue, month from article where volume='$volume' order by issue";
-$result = mysql_query($query);
-$num_rows = mysql_num_rows($result);
+$result = $mysqli->query($query);
+$num_rows = $result->num_rows;
 
 if($num_rows)
 {
 	for($i=1;$i<=$num_rows;$i++)
 	{	
 
-		$row=mysql_fetch_assoc($result);
-		$issue=$row['issue'];
-		$month=$row['month'];
+		$row = $result->fetch_assoc();
+		$issue = $row['issue'];
+		$month = $row['month'];
 		
 		echo "<div class=\"archive_title\">ಸಂಚಿಕೆ <span class=\"eng\">(".intval($issue).")</span> - $month</div>";
 		echo "<ul>";
 		
 				
 		$query1 = "select * from article where volume='$volume' and issue='$issue' order by page, title";
-		$result1 = mysql_query($query1);
-		$num_rows1 = mysql_num_rows($result1);
+		$result1 = $mysqli->query($query1);
+		$num_rows1 = $result1->num_rows;
 		
 		if($num_rows1)
 		{
 			for($i1=1;$i1<=$num_rows1;$i1++)
 			{	
-					$row1=mysql_fetch_assoc($result1);
-					$title=$row1['title'];
-					$feature=$row1['feature'];
-					$authid=$row1['authid'];
-					$volume=$row1['volume'];
-					$year=$row1['year'];
-					$month=$row1['month'];
-					$issue=$row1['issue'];
-					$page=$row1['page'];
+					$row1 = $result1->fetch_assoc();
+					$title = $row1['title'];
+					$feature = $row1['feature'];
+					$authid = $row1['authid'];
+					$volume = $row1['volume'];
+					$year = $row1['year'];
+					$month = $row1['month'];
+					$issue = $row1['issue'];
+					$page = $row1['page'];
 					
 					echo "<li><span class=\"titlespan\"><a href=\"../Volumes/$volume/$issue/index.djvu?djvuopts&page=$page&zoom=page\" target=\"_blank\">" . $title . "</a></span>";
 					
@@ -111,8 +108,8 @@ if($num_rows)
 				{
 					
 					$query2 = "select * from author where authid=$authid";
-					$result2 = mysql_query($query2);
-					$row2=mysql_fetch_assoc($result2);
+					$result2 = $mysqli->query($query2);
+					$row2 = $result2->fetch_assoc();
 					
 					$authorname=$row2['authorname'];
 					$salutation=$row2['salutation'];

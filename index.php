@@ -5,6 +5,7 @@
 <title>Viveka Prabha</title>
 <link href="html/style/reset.css" rel="stylesheet"/>
 <link href="html/style/indexstyle1.css"  rel="stylesheet"/>
+<link rel="icon" type="image/png" href="html/images/favicon.png">
 </head>
 
 <body>
@@ -47,13 +48,8 @@
 					include("html/connect.php");
 					include("html/functions.php");
 
-					$month=array("ಜನವರಿ","ಫೆಬ್ರವರಿ","ಮಾರ್ಚ್","ಏಪ್ರಿಲ್","ಮೇ","ಜೂನ್","ಜುಲೈ","ಆಗಸ್ಟ್","ಸೆಪ್ಟೆಂಬರ್","ಅಕ್ಟೋಬರ್","ನವೆಂಬರ್","ಡಿಸೆಂಬರ್");
-					$db=mysql_connect($host,$user,$password) or die("Not Connected To Database".mysql_error());
-					mysql_select_db($database,$db);
-					mysql_set_charset("utf8",$db);
-					
 					#get current volume, issue details
-					$currentIssueDetails = getCurrentVolumeIssue($database,$db);
+					$currentIssueDetails = getCurrentVolumeIssue($mysqli);
 					$volume = $currentIssueDetails['volume'];
 					$issue = $currentIssueDetails['issue'];
 					
@@ -61,11 +57,11 @@
 
 					
 					$query2 = "select * from article where volume='$volume' and issue='$issue' and feature='ಸಂಪಾದಕೀಯ' limit 1";
-					$result2=mysql_query("select * from article where volume='$volume' and issue='$issue' and feature='ಸಂಪಾದಕೀಯ' limit 1");
-					$row2=mysql_fetch_assoc($result2);
+					$result2 = $mysqli->query("select * from article where volume='$volume' and issue='$issue' and feature='ಸಂಪಾದಕೀಯ' limit 1");
+					$row2 = $result2->fetch_assoc();
 	
 					echo "<div class=\"widget\">"; 
-					echo "<div class=\"tbar\">".$month[$row2['issue']-1]." ಸಂಚಿಕೆ</div>";
+					echo "<div class=\"tbar\">".$nom[$row2['issue']-1]." ಸಂಚಿಕೆ</div>";
 					echo "<img src=\"html/images/viveka.png\" alt=\"cover\"/><br />";
 					echo "<img src=\"html/images/cover.png\" alt=\"175 Anniversary\"/><br />";
 					echo "<span class=\"title\">".$row2['theme']."<br/></span>";
@@ -121,12 +117,10 @@
 	function print_widget($feature, $column,$volume,$issue)
 	{
 		include("html/connect.php");
-		$db_con=mysql_connect($host,$user,$password) or die("Not connected To database");
-		mysql_set_charset("utf8",$db_con);
-		mysql_select_db($database,$db_con) or die("No Database".mysql_error());
+		
 		$query="select * from article where feature='$feature' and volume=$volume and issue=$issue";
-		$result=mysql_query($query) or die("Invalid Article Query".mysql_error());
-		$num_rows=mysql_num_rows($result);
+		$result = $mysqli->query($query);
+		$num_rows = $result->num_rows;
 		if($num_rows>0)
 		{
 			if($column==0)
@@ -141,12 +135,13 @@
 			echo "<div class=\"tbar\">$feature</div>";
 			for($i=0;$i<$num_rows;$i++)
 			{
-				$row=mysql_fetch_assoc($result);
-				$authid=$row['authid'];
-				$query="select * from author where authid=$authid";
-				$result1=mysql_query($query) or die("Invalid Author Query".mysql_error());
-				$row1=mysql_fetch_assoc($result1);
-				$author=$row1['authorname'];
+				$row = $result->fetch_assoc();
+				$authid = $row['authid'];
+				
+				$query = "select * from author where authid=$authid";
+				$result1 = $mysqli->query($query);
+				$row1 = $result1->fetch_assoc();
+				$author = $row1['authorname'];
 				
 				echo "<div>";
 				echo "<img class=\"art_widget_img\" src=\"Volumes/".$row['volume']."/".$row['issue']."/images/".$row['page'].".png\" alt=\"cover\"/>";

@@ -5,6 +5,7 @@
 <title>Viveka Prabha</title>
 <link href="style/reset.css" rel="stylesheet" />
 <link href="style/archivestyle.css" rel="stylesheet"/>
+<link rel="icon" type="image/png" href="images/favicon.png">
 </head>
 
 <body>
@@ -63,18 +64,15 @@
 
 include("connect.php");
 
-$db = mysql_connect("localhost",$user,$password) or die("Not connected to database");
-$rs = mysql_select_db($database,$db) or die("No Database");
-
 $query = "select distinct volume, year from article order by abs(volume) asc";
-$result = mysql_query($query);
-$num_rows = mysql_num_rows($result);
+$result = $mysqli->query($query);
+$num_rows = $result->num_rows;
 
 if($num_rows)
 {
 	for($i=1;$i<=$num_rows;$i++)
 	{	
-		$row=mysql_fetch_assoc($result);
+		$row=$result->fetch_assoc();
 		$volume=$row['volume'];
 		$year=$row['year'];
 		
@@ -97,7 +95,6 @@ if($num_rows)
 ?>
 			</div>
 		</div>
-		<?php include("connect.php"); ?>
 		<div class="column2">
 			<?php include("currentissue.php");?>
 		</div>

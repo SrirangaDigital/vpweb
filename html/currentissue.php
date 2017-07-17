@@ -2,21 +2,16 @@
 	include("connect.php");
 	include("functions.php");
 
-	$month=array("ಜನವರಿ","ಫೆಬ್ರವರಿ","ಮಾರ್ಚ್","ಏಪ್ರಿಲ್","ಮೇ","ಜೂನ್","ಜುಲೈ","ಆಗಸ್ಟ್","ಸೆಪ್ಟೆಂಬರ್","ಅಕ್ಟೋಬರ್","ನವೆಂಬರ್","ಡಿಸೆಂಬರ್");
-	$db=mysql_connect($host,$user,$password) or die("Not Connected To Database".mysql_error());
-	mysql_select_db($database,$db);
-	mysql_set_charset("utf8",$db);
-
 	#get current volume, issue details
-	$currentIssueDetails = getCurrentVolumeIssue($database,$db);
+	$currentIssueDetails = getCurrentVolumeIssue($mysqli);
 	$volume = $currentIssueDetails['volume'];
 	$issue = $currentIssueDetails['issue'];	
 
-	$result=mysql_query("select * from article where volume=$volume and issue=$issue and feature='ಸಂಪಾದಕೀಯ' limit 1");
-	$row=mysql_fetch_assoc($result);
+	$result = $mysqli->query("select * from article where volume=$volume and issue=$issue and feature='ಸಂಪಾದಕೀಯ' limit 1");
+	$row = $result->fetch_assoc();
 	
 	echo "<div class=\"widget\">"; 
-	echo "<div class=\"tbar\">".$month[$row['issue']-1]." ಸಂಚಿಕೆ</div>";
+	echo "<div class=\"tbar\">".$nom[$row['issue']-1]." ಸಂಚಿಕೆ</div>";
 	echo "<img src=\"images/viveka.png\" alt=\"cover\"/><br />";
 	echo "<img src=\"images/cover.png\" alt=\"175 Anniversary\"/><br />";
 	echo "<span class=\"title\">&apos;".$row['theme']."&apos;</span><br />";
