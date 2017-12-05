@@ -30949,27 +30949,21 @@
 				<feature>ಪ್ರಾರ್ಥನೆ</feature>
 				<text></text>
 				<page>0006-0006</page>
-				<allauthors>
-					<author salut=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title>ಬೆಳಕ ಬೀರುವ ಹಾದಿ-೪</title>
 				<feature>ಸಂಪಾದಕೀಯ</feature>
 				<text></text>
 				<page>0009-0011</page>
-				<allauthors>
-					<author salut=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title>ಪ್ರಕೃತಿ</title>
 				<feature>ಶ್ರೀರಾಮಕೃಷ್ಣ ವಚನವೇದದಿಂದ</feature>
 				<text>ಆಕೆ ಎಲ್ಲವನ್ನೂ ನನಗೆ ತೋರಿಸಿಕೊಟ್ಟುಬಿಟ್ಟಿದ್ದಾಳೆ</text>
 				<page>0012-0012</page>
-				<allauthors>
-					<author salut=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title>ಸಮಾಜದ ಬೆಳವಣಿಗೆಗೆ ಸಾಮೂಹಿಕ ಭಾವನೆಯ ಅಗತ್ಯ</title>
@@ -31030,9 +31024,7 @@
 				<feature>ಪುಸ್ತಕ ಪರಿಚಯ</feature>
 				<text>ಇಡೀ ರಾಮಾಯಣವನ್ನು ಹಲವು ಕವನಗಳ ಒಂದು ಗುಚ್ಛವಾಗಿಯೂ ಬಿಡಿ ಬಿಡಿ</text>
 				<page>0034-0034</page>
-				<allauthors>
-					<author salut=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title>ಅರಣ್ಯಮಾಲಿ ರೈನಾ</title>
@@ -31048,27 +31040,21 @@
 				<feature>ಸಂತರ ಜೀವನ</feature>
 				<text>ಭಾರತದ ಇತಿಹಾಸದಲ್ಲಿ ೧೫-೧೬ನೆಯ ಶತಮಾನದಲ್ಲಿ ನಡೆದ ಭಕ್ತಿ ಅಂದೋಲನವು ಪ್ರಮುಖವಾದುದು</text>
 				<page>0036-0039</page>
-				<allauthors>
-					<author salut=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title>ಶಿವಶರಣ ದೇವರ ದಾಸಿಮಯ್ಯ</title>
 				<feature>ಚಿತ್ರಕಥೆ</feature>
 				<text>೧೧ನೇ ಶತಮಾನದಲ್ಲಿ ಯಾದಗಿರಿ ಜಿಲ್ಲೆಯ ಮುದನೂರಿನಲ್ಲಿ ಜೀವಿಸಿದ್ದ ಶಿವಶರಣ ಸಂತನೇ</text>
 				<page>0040-0043</page>
-				<allauthors>
-					<author salut=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title>ಸುದ್ದಿಸಂಚಯ</title>
 				<feature></feature>
 				<text></text>
 				<page>0044-0044</page>
-				<allauthors>
-					<author salut=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 		</issue>
 		<issue inum="10" month="10" year="2017" theme="">
@@ -31077,27 +31063,21 @@
 				<feature>ಪ್ರಾರ್ಥನೆ</feature>
 				<text></text>
 				<page>0004-0004</page>
-				<allauthors>
-					<author salut=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title>ಬೆಳಕ ಬೀರುವ ಹಾದಿ-೫</title>
 				<feature>ಸಂಪಾದಕೀಯ</feature>
 				<text></text>
 				<page>0007-0009</page>
-				<allauthors>
-					<author salut=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title>ರಾಮಾವತಾರ</title>
 				<feature>ಶ್ರೀರಾಮಕೃಷ್ಣ ವಚನವೇದದಿಂದ</feature>
 				<text>ರಾಮ ಪೂರ್ಣಬ್ರಹ್ಮ, ಪೂರ್ಣ ಅವತಾರ ಎಂಬುದು ಕೇವಲ ಹನ್ನೆರಡು</text>
 				<page>0010-0010</page>
-				<allauthors>
-					<author salut=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title>ಕೈಲಾಸ ಮಾನಸ ಸರೋವರ ಯಾತ್ರೆ</title>
@@ -31167,36 +31147,124 @@
 				<feature>ಪುಸ್ತಕ ಪರಿಚಯ</feature>
 				<text>ರಾಮಕೃಷ್ಣ ಶಾರದಾ ಮಿಷನ್ ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರ ೧೫೦ನೇ ಜಯಂತಿಯ ಪ್ರಯುಕ್ತ</text>
 				<page>0032-0032</page>
-				<allauthors>
-					<author salut=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title>ತ್ಯಾಗಿ ವೀರ ಸಂತ ತೇಗ್ ಬಹದ್ದೂರ್</title>
 				<feature>ಸಂತರ ಜೀವನ</feature>
 				<text>ಸಿಖ್ ಧರ್ಮದ ಪುಣ್ಯಗ್ರಂಥ ಗುರು ಗ್ರಂಥ ಸಾಹಿಬ್. ಅದರಲ್ಲಿನ ಒಂದು</text>
 				<page>0033-0037</page>
-				<allauthors>
-					<author salut=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title>ಕಲಿಕಾಮ ನಾಯನಾರ್</title>
 				<feature>ಚಿತ್ರಕಥೆ</feature>
 				<text>ನಮಃ ಶಿವಾಯ ದಯವಿಟ್ಟು ಒಳಗೆ ಬನ್ನಿ ತಿರುವಾರೂರಿನಲ್ಲಿ ಏನು ಸಮಾಚಾರ</text>
 				<page>0038-0041</page>
-				<allauthors>
-					<author salut=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title>ಸುದ್ದಿಸಂಚಯ</title>
 				<feature></feature>
 				<text></text>
 				<page>0042-0042</page>
+				<allauthors />
+			</entry>
+		</issue>
+		<issue inum="11" month="11" year="2017" theme="">
+			<entry>
+				<title>ಕನ್ನಡ ತಾಯಿ</title>
+				<feature>ಪ್ರಾರ್ಥನೆ</feature>
+				<text></text>
+				<page>0004-0004</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ನುಡಿಯೆಂಬ ಬೆಳಕು</title>
+				<feature>ಸಂಪಾದಕೀಯ</feature>
+				<text></text>
+				<page>0007-0009</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಬ್ರಹ್ಮ ಅನಿರ್ವಚನೀಯ</title>
+				<feature>ಶ್ರೀರಾಮಕೃಷ್ಣ ವಚನವೇದದಿಂದ</feature>
+				<text>ಬ್ರಹ್ಮಜ್ಞಾನಿಯ ನಿಶ್ಚಿತಾಭಿಪ್ರಾಯ ಬ್ರಹ್ಮ ಸತ್ಯ ಜಗನ್ಮಿಥ್ಯಾ. ಈ ನಾಮರೂಪಗಳೆಲ್ಲ</text>
+				<page>0010-0010</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಆಧ್ಯಾತ್ಮಿಕ ಪಥದಲ್ಲಿ ವಿಜ್ಞಾನಿ-೧</title>
+				<feature>ವಿಶೇಷ ಲೇಖನ</feature>
+				<text>ಶ್ರೀಮಾತೆ ಶಾರದದಾದೇವಿಯವರ ಜೀವನವನ್ನು ಓದಿದವರಿಗೆ ವಿಷ್ಟುಪುರದ ಹೆಸರು ಹೊಸದು</text>
+				<page>0011-0016</page>
 				<allauthors>
-					<author salut=""></author>
+					<author salut="">ಪ್ರವ್ರಾಜಿಕಾ ಪರಮಪ್ರಾಣಾ</author>
 				</allauthors>
+			</entry>
+			<entry>
+				<title>ಕೈಲಾಸ ಮಾನಸ ಸರೋವರ ಯಾತ್ರೆ-೨</title>
+				<feature>ವಿಶೇಷ ಲೇಖನ</feature>
+				<text>ಮರುದಿನ ಶೆರಾತಾಂಗ್ ಎಂಬ ಊರಿನಲ್ಲಿ ನಮ್ಮನ್ನು ಉಳಿಸಿದರು ಪರ್ವತ ವಾರ್ತಾವರಣಕ್ಕೆ</text>
+				<page>0017-0021</page>
+				<allauthors>
+					<author salut="ಡಾ">ಹೆಚ್. ಪಾಂಡುರಂಗ ವಿಠಲ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶ್ರೀಮಾತೆ ಭಾಗ-೧೧</title>
+				<feature>ಧಾರಾವಾಹಿ</feature>
+				<text>ಶ್ರೀಮಾತೆಯವರ ತಮ್ಮಂದಿರು, ಅವರ ಹೆಣ್ಣುಮಕ್ಕಳು ಇವರ ತಿಳಿಗೇಡಿತನ ಎಷ್ಟೊಂದು ವೃದ್ಧಿಯಾಗುತ್ತಿತ್ತೆಂದರೆ</text>
+				<page>0022-0025</page>
+				<allauthors>
+					<author salut="">ಆಶುತೋಷ್ ಮಿತ್ರ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಸೋಲುಗಳೇ ಜೀವನದ ಸೊಬಗು</title>
+				<feature>ವಿಶೇಷ ಲೇಖನ</feature>
+				<text>ಸೋಲುಗಳನ್ನು ಮನಸ್ಸಿಗೆ ಹಚ್ಚಿಕೊಳ್ಳಬೇಡಿ ಜೀವನದಲ್ಲಿ ಸೋಲು ಸಂಭವಿಸುವುದು ತೀರ</text>
+				<page>0026-0028</page>
+				<allauthors>
+					<author salut="">ಮಿರಾಜ, ಮಂಗಲಗಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಕಳೆದ ದಿನಗಳ ನೆನಪುಗಳು-೧೨</title>
+				<feature>ಧಾರಾವಾಹಿ</feature>
+				<text>೧೮೯೭ರ ಕೊನೆಯ ಭಾಗದಲ್ಲಿ ಸ್ವಾಮೀಜಿಯವರು ಸ್ವಾಮಿ ವಿರಜಾನಂದರನ್ನೂ ದುರ್ಭಿಕ್ಷದ ಸೇವಾಕಾರ್ಯಾ</text>
+				<page>0029-0032</page>
+				<allauthors>
+					<author salut="ಸ್ವಾಮಿ">ಶ್ರದ್ಧಾನಂದ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಡಾ.ಸಿ.ಪಿ.ಕೆ.ಯವರ ಮೂರು ಕೃತಿಗಳು</title>
+				<feature>ಪುಸ್ತಕ ಪರಿಚಯ</feature>
+				<text>ಶ್ರೀರಾಮಕೃಷ್ಣ ಪರಮಹಂಸರು, ಶ್ರೀಮಾತೆ ಶಾರದಾದೇವಿ ಹಾಗೂ ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರು</text>
+				<page>0033-0034</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಕಾಶ್ಮೀರದ ಶೈವಭಕ್ತೆ ಲಲ್ಲೇಶ್ವರಿ</title>
+				<feature>ಸಂತರ ಜೀವನ</feature>
+				<text>ಕಾಶ್ಮೀರವು ಭಾರತದ ಕಿರೀಟಪ್ರಾಯವಾಗಿದೆ. ಪ್ರಕೃತಿದೇವಿ ಅಲ್ಲಿ ನಲಿದಾಡುತ್ತಿದ್ದಾಳೆ</text>
+				<page>0035-0037</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಗಣೇಶ ಮತ್ತು ಆತ್ಮಲಿಂಗ</title>
+				<feature>ಚಿತ್ರಕಥೆ</feature>
+				<text>ರಾವಣ, ನಿನ್ನ ಕಠಿಣ ತಪಸ್ಸಿಗೆ ಮೆಚ್ಚಿದೆ. ನಿನಗೇನು ವರ ಬೇಕೋ ಕೇಳು</text>
+				<page>0038-0041</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಸುದ್ದಿಸಂಚಯ</title>
+				<feature></feature>
+				<text></text>
+				<page>0042-0042</page>
+				<allauthors />
 			</entry>
 		</issue>
 	</volume>
