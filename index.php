@@ -68,22 +68,15 @@
 					echo "<span class=\"text\"><a href=\"Volumes/".$row2['volume']."/".$row2['issue']."/index.djvu?djvuopts&page=".$row2['page']."&zoom=page\" target=\"_blank\">ಸಂಪಾದಕೀಯ: ".$row2['title']."</a></span>";
 					echo "</div>";
 			?>
-			<?php print_widget("ಭಾರತೀಯ ಸಂಗೀತ",0,$volume,$issue,'ಸಂಗೀತ ಮತ್ತು ಉಪಾಸನೆ');?>	
-			<?php print_widget("ಭಾರತೀಯ ಸಂಗೀತ",0,$volume,$issue,'ಸಾಮವೇದ ಹಾಗೂ ಭಾರತೀಯ ಸಂಗೀತದ ಉಗಮ');?>									
-			<?php print_widget("ಭಾರತೀಯ ಸಂಗೀತ",0,$volume,$issue,'ಸಂಗೀತದಲ್ಲಿ ಗುರು-ಶಿಷ್ಯ ಪರಂಪರೆ ಮತ್ತು ಆಧ್ಯಾತ್ಮಿಕತೆ');?>									
-			<?php print_widget("ಭಾರತೀಯ ಸಂಗೀತ",0,$volume,$issue,'ಭಾರತೀಯ ಸಂಗೀತ ಮತ್ತು ನೃತ್ಯಕಲೆಗಳಲ್ಲಿ ಅಧ್ಯಾತ್ಮ');?>									
-			<?php print_widget("ಭಾರತೀಯ ಸಂಗೀತ",0,$volume,$issue,'ಆಧ್ಯಾತ್ಮಿಕತೆಯೇ ಭಾರತೀಯ ಸಂಗೀತದ ಪರಮಲಕ್ಷ್ಯ');?>									
+			<?php print_widget("ಸಂತರ ಜೀವನ",0,$volume,$issue,'ಶ್ರೀಮಧ್ವಾಚಾರ್ಯರು');?>	
+			<?php print_widget("ಚಿತ್ರಕಥೆ",0,$volume,$issue,'ಪಂಡರಾಪುರದ ಇತಿಹಾಸ');?>	
 		</div>
 		
 		<div class="column2">
-			<?php print_widget("ಭಾರತೀಯ ಸಂಗೀತ",1,$volume,$issue,'ಹಿಂದೂಸ್ತಾನಿ ಸಂಗೀತದಲ್ಲಿ ಭಕ್ತಿ');?>									
-			<?php print_widget("ಭಾರತೀಯ ಸಂಗೀತ",1,$volume,$issue,'ಹಿಂದೂಸ್ತಾನಿ ಸಂಗೀತದಲ್ಲಿ ವಚನದಲ್ಲಿ ಮತ್ತು ದಾಸರ ಪದಗಳು: ಆಧ್ಯಾತ್ಮಿಕ ಅಭಿವ್ಯಕ್ತಿ ಆತ್ಮ ಸಾಕ್ಷಾತ್ಕಾರದ ವಿನೂತನ ವಿಧಾನ');?>									
-			<?php print_widget("ಭಾರತೀಯ ಸಂಗೀತ",1,$volume,$issue,'ಹರಿಕಥಾ ಪರಂಪರೆ:ಸಂಗೀತ-ಭಕ್ತಿಗಳ ಸಮಾಗಮ');?>									
-			<?php print_widget("ಭಾರತೀಯ ಸಂಗೀತ",1,$volume,$issue,'ಹರಿದಾಸರ ನಾದಯೋಗ');?>									
-			<?php print_widget("ಭಾರತೀಯ ಸಂಗೀತ",1,$volume,$issue,"ಕರ್ನಾಟಕ ಸಂಗೀತ ತ್ರಿಮೂರ್ತಿಗಳ ಕೃತಿಗಳಲ್ಲಿ \`ಭಕ್ತಿ ಮತ್ತು ಅಧ್ಯಾತ್ಮ\'");?>									
-			<?php print_widget("ಭಾರತೀಯ ಸಂಗೀತ",1,$volume,$issue,"ಶ್ರೀತ್ಯಾಗರರಾಜರ ಕೃತಿಗಳಲ್ಲಿ ಅಧ್ಯಾತ್ಮ");?>									
-			<?php print_widget("ಭಾರತೀಯ ಸಂಗೀತ",1,$volume,$issue,"ಮುತ್ತುಸ್ವಾಮಿ ದೀಕ್ಷಿತರು ಮತ್ತು ಅಧ್ಯಾತ್ಮ");?>									
-			<?php print_widget("ಭಾರತೀಯ ಸಂಗೀತ",1,$volume,$issue,"ಸಂಗೀತದಲ್ಲಿ ಸಾಹಿತ್ಯ ಸ್ಥಾನ");?>									
+			<?php print_widget("ಶ್ರೀರಾಮಕೃಷ್ಣ ವಚನವೇದದಿಂದ",1,$volume,$issue,'ಮನಸ್ಸು ಮತ್ತು ಸಾಧನೆ');?>									
+			<?php print_widget("ವಿಶೇಷ ಲೇಖನ",1,$volume,$issue,'ಶ್ರೀರಾಮಕೃಷ್ಣರ ನುಡಿಗಳ ತಾತ್ಪರ್ಯ');?>									
+			<?php print_widget("ವಿಶೇಷ ಲೇಖನ",1,$volume,$issue,'ಆಧ್ಯಾತ್ಮಿಕ ಪಥದಲ್ಲಿ ವಿಜ್ಞಾನಿ-೩');?>									
+			<?php print_widget("ವಿಶೇಷ ಲೇಖನ",1,$volume,$issue,'ತನ್ಮೇ ಮನಃ ಶಿವಸಂಕಲ್ಪಮಸ್ತು');?>									
 		</div>
 		<div class="column3">
 			<div class="art_widget_index">
@@ -102,12 +95,8 @@
 					<span class="furtherspan"><a href="http://www.caminova.net/en/downloads/download.aspx?id=1" target="_blank">ಲೇಖನಗಳನ್ನು ಡೆಜವೂ (DjVu) ರೂಪದಲ್ಲಿಟ್ಟಿದೆ. ಅವುಗಳನ್ನು ನೋಡಲು ಡೆಜವೂ ಪ್ಲಗಿನ್ ಅಗತ್ಯ. ಇದು ಮುಕ್ತವಾಗಿ ಇಲ್ಲಿ ಸಿಗುತ್ತದೆ:</a></span><br />
 				</div>				
 			</div>			
-			<?php print_widget("ರಾಮಕೃಷ್ಣ ಮಹಾಸಂಘದಲ್ಲಿ ಸಂಗೀತ -ಭಜನೆ",2,$volume,$issue,"ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರು ಮತ್ತು ಸಂಗೀತ");?>							
-			<?php print_widget("ರಾಮಕೃಷ್ಣ ಮಹಾಸಂಘದಲ್ಲಿ ಸಂಗೀತ -ಭಜನೆ",2,$volume,$issue,"ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರ \`ಸಂಗೀತ ಕಲ್ಪತರು\'");?>							
-			<?php print_widget("ರಾಮಕೃಷ್ಣ ಮಹಾಸಂಘದಲ್ಲಿ ಸಂಗೀತ -ಭಜನೆ",2,$volume,$issue,"ಶ್ರೀರಾಮಕೃಷ್ಣರು ಮತ್ತು ಸಂಗೀತ");?>							
-			<?php print_widget("ರಾಮಕೃಷ್ಣ ಮಹಾಸಂಘದಲ್ಲಿ ಸಂಗೀತ -ಭಜನೆ",2,$volume,$issue,"ರಾಮಕೃಷ್ಣ ಆಶ್ರಮ ಹಾಗೂ ಭಕ್ತರ ಪರಂಪರೆಯಲ್ಲಿ ಕನ್ನಡದ ಭಜನೆಗಳು");?>							
-			<?php print_widget("ರಾಮಕೃಷ್ಣ ಮಹಾಸಂಘದಲ್ಲಿ ಸಂಗೀತ -ಭಜನೆ",2,$volume,$issue,"ರಾಮಕೃಷ್ಣ ಮಹಾಸಂಘದಲ್ಲಿ ರಾಮನಾಮ ಸಂಕೀರ್ತನೆ");?>							
-			<?php print_widget("ರಾಮಕೃಷ್ಣ ಮಹಾಸಂಘದಲ್ಲಿ ಸಂಗೀತ -ಭಜನೆ",2,$volume,$issue,"ಕಾಳೀಕೀರ್ತನೆ:ಒಂದು ಪರಿಚಯ");?>							
+			<?php print_widget("ಧಾರಾವಾಹಿ",2,$volume,$issue,"ಶ್ರೀಮಾತೆ-ಭಾಗ ೧೩");?>							
+			<?php print_widget("ಧಾರಾವಾಹಿ",2,$volume,$issue,"ಕಳೆದ ದಿನಗಳ ನೆನಪುಗಳು-೧೪");?>							
 		</div>
 	</div>
 	<div class="footer">
