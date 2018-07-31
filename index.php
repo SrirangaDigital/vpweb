@@ -68,15 +68,16 @@
 					echo "<span class=\"text\"><a href=\"Volumes/".$row2['volume']."/".$row2['issue']."/index.djvu?djvuopts&page=".$row2['page']."&zoom=page\" target=\"_blank\">ಸಂಪಾದಕೀಯ: ".$row2['title']."</a></span>";
 					echo "</div>";
 			?>
-			<?php print_widget("ಸಂತರ ಜೀವನ",0,$volume,$issue,'ಶ್ರೀಮಧ್ವಾಚಾರ್ಯರು');?>	
-			<?php print_widget("ಚಿತ್ರಕಥೆ",0,$volume,$issue,'ಪಂಡರಾಪುರದ ಇತಿಹಾಸ');?>	
+			<?php print_widget("ಸಂತರ ಜೀವನ",0,$volume,$issue,'ಶ್ರೀವಲ್ಲಭಾಚಾರ್ಯರು-ಭಾಗ ೨');?>	
+			<?php print_widget("ಚಿತ್ರಕಥೆ",0,$volume,$issue,'ಹರಿದಾಸ');?>	
 		</div>
 		
 		<div class="column2">
-			<?php print_widget("ಶ್ರೀರಾಮಕೃಷ್ಣ ವಚನವೇದದಿಂದ",1,$volume,$issue,'ಮನಸ್ಸು ಮತ್ತು ಸಾಧನೆ');?>									
-			<?php print_widget("ವಿಶೇಷ ಲೇಖನ",1,$volume,$issue,'ಶ್ರೀರಾಮಕೃಷ್ಣರ ನುಡಿಗಳ ತಾತ್ಪರ್ಯ');?>									
-			<?php print_widget("ವಿಶೇಷ ಲೇಖನ",1,$volume,$issue,'ಆಧ್ಯಾತ್ಮಿಕ ಪಥದಲ್ಲಿ ವಿಜ್ಞಾನಿ-೩');?>									
-			<?php print_widget("ವಿಶೇಷ ಲೇಖನ",1,$volume,$issue,'ತನ್ಮೇ ಮನಃ ಶಿವಸಂಕಲ್ಪಮಸ್ತು');?>									
+			<?php print_widget("ಶ್ರೀರಾಮಕೃಷ್ಣ ವಚನವೇದದಿಂದ",1,$volume,$issue,'ಅದ್ವೈತಭಾವ');?>									
+			<?php print_widget("ವಿಶೇಷ ಲೇಖನ",1,$volume,$issue,'ಇಳಿ ವಯಸ್ಸಿನಲ್ಲಿ ಆನಂದವನ್ನು ಪಡೆಯುವುದು ಹೇಗೆ-ಭಾಗ ೨');?>									
+			<?php print_widget("ವಿಶೇಷ ಲೇಖನ",1,$volume,$issue,'ಭಾರತೀಯ ನಾರಿಯರ ಆದರ್ಶಗಳು');?>									
+			<?php print_widget("ವಿಶೇಷ ಲೇಖನ",1,$volume,$issue,'ಸ್ಫೂರ್ತಿದಾಯಕ ನೀತಿಕಥೆಗಳು');?>									
+			<?php print_widget("ವಿಶೇಷ ಲೇಖನ",1,$volume,$issue,'‘ನಿರ್ಭಯತೆ’:ಇದನ್ನು ಬೆಳೆಸಿಕೊಳ್ಳುವುದು ಹೇಗೆ?');?>									
 		</div>
 		<div class="column3">
 			<div class="art_widget_index">
@@ -95,8 +96,10 @@
 					<span class="furtherspan"><a href="http://www.caminova.net/en/downloads/download.aspx?id=1" target="_blank">ಲೇಖನಗಳನ್ನು ಡೆಜವೂ (DjVu) ರೂಪದಲ್ಲಿಟ್ಟಿದೆ. ಅವುಗಳನ್ನು ನೋಡಲು ಡೆಜವೂ ಪ್ಲಗಿನ್ ಅಗತ್ಯ. ಇದು ಮುಕ್ತವಾಗಿ ಇಲ್ಲಿ ಸಿಗುತ್ತದೆ:</a></span><br />
 				</div>				
 			</div>			
-			<?php print_widget("ಧಾರಾವಾಹಿ",2,$volume,$issue,"ಶ್ರೀಮಾತೆ-ಭಾಗ ೧೩");?>							
-			<?php print_widget("ಧಾರಾವಾಹಿ",2,$volume,$issue,"ಕಳೆದ ದಿನಗಳ ನೆನಪುಗಳು-೧೪");?>							
+			<?php print_widget("ಧಾರಾವಾಹಿ",2,$volume,$issue,"ಶ್ರೀಮಾತೆ-ಭಾಗ ೧೮");?>							
+			<?php print_widget("ಧಾರಾವಾಹಿ",2,$volume,$issue,"ಕಳೆದ ದಿನಗಳ ನೆನಪುಗಳು-೧೯");?>							
+			<?php print_widget("ಧಾರಾವಾಹಿ",2,$volume,$issue,"ಶ್ರೀಮಾತೆಯವರ ಪತ್ರಗಳು-೧೧");?>							
+			<?php print_widget("ಅನುಷ್ಠಾನ ವೇದಾಂತ",2,$volume,$issue,"ಸರಿಯಾ ಬೀಬಿ ಮತ್ತು ಫತೇಮಾ ಬೀಬಿ");?>							
 		</div>
 	</div>
 	<div class="footer">
